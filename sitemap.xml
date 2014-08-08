@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://kailun-wu.github.io/blog/code/</loc>
+    <lastmod>2014-08-08T00:35:23-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://kailun-wu.github.io/blog/wen-guan-jun/</loc>
     <lastmod>2014-08-07T01:17:24-04:00</lastmod>
     <priority>0.8</priority>
@@ -17,21 +23,21 @@
   
   <url>
     <loc>http://kailun-wu.github.io/blog/archives/</loc>
-    <lastmod>2014-08-08T00:05:06-04:00</lastmod>
+    <lastmod>2014-08-08T00:40:05-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://kailun-wu.github.io/blog/</loc>
-    <lastmod>2014-08-08T00:05:06-04:00</lastmod>
+    <lastmod>2014-08-08T00:40:05-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://kailun-wu.github.io/</loc>
-    <lastmod>2014-08-08T00:05:06-04:00</lastmod>
+    <lastmod>2014-08-08T00:40:05-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
