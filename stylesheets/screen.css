@@ -81,7 +81,7 @@ h3 a:hover
 }
 a.category
 {
-	color: #3498db;
+	color: #c90000;
 }
 .alignleft
 {
@@ -160,7 +160,7 @@ a.category
 }
 #header a
 {
-	color: #5700ad;
+	color: #c90000;
 	moz-transition: color 0.3s;
 	o-transition: color 0.3s;
 	transition: color 0.3s;
