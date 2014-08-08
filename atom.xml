@@ -4,7 +4,7 @@
   <title><![CDATA[Artifact]]></title>
   <link href="http://kailun-wu.github.io/atom.xml" rel="self"/>
   <link href="http://kailun-wu.github.io/"/>
-  <updated>2014-08-07T23:45:07-04:00</updated>
+  <updated>2014-08-07T23:51:24-04:00</updated>
   <id>http://kailun-wu.github.io/</id>
   <author>
     <name><![CDATA[Kailun Wu]]></name>
@@ -13,10 +13,25 @@
 
   
   <entry>
+    <title type="html"><![CDATA[闻官军收河南河北]]></title>
+    <link href="http://kailun-wu.github.io/blog/dufu-wenguanjun/"/>
+    <updated>2014-08-07T01:17:24-04:00</updated>
+    <id>http://kailun-wu.github.io/blog/dufu-wenguanjun</id>
+    <content type="html"><![CDATA[<p>剑外忽传收蓟北，初闻涕泪满衣裳。</p>
+
+<p>却看妻子愁何在，漫卷诗书喜欲狂。</p>
+
+<p>白日放歌须纵酒，青春作伴好还乡。</p>
+
+<p>即从巴峡穿巫峡，便下襄阳向洛阳。</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[將進酒]]></title>
-    <link href="http://kailun-wu.github.io/blog/2014/08/05/jiang-jin-jiu/"/>
+    <link href="http://kailun-wu.github.io/blog/jiang-jin-jiu/"/>
     <updated>2014-08-05T01:17:24-04:00</updated>
-    <id>http://kailun-wu.github.io/blog/2014/08/05/jiang-jin-jiu</id>
+    <id>http://kailun-wu.github.io/blog/jiang-jin-jiu</id>
     <content type="html"><![CDATA[<p>君不見黃河之水天上來，奔流到海不復還。</p>
 
 <p>君不見高堂明鏡悲白髮，朝如青絲暮成雪。</p>
