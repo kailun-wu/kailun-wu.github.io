@@ -4,7 +4,7 @@
   <title><![CDATA[Artifact]]></title>
   <link href="http://kailun-wu.github.io/atom.xml" rel="self"/>
   <link href="http://kailun-wu.github.io/"/>
-  <updated>2014-08-08T01:11:49-04:00</updated>
+  <updated>2014-08-08T01:13:38-04:00</updated>
   <id>http://kailun-wu.github.io/</id>
   <author>
     <name><![CDATA[Kailun Wu]]></name>
@@ -34,7 +34,7 @@
 
 <p>The <code>ColorScraper.java</code> source:</p>
 
-<figure class='code'><figcaption><span>ColorScraper.java start:44 mark:54-56</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<figure class='code'><figcaption><span>ColorScraper.java start:22 mark:24-26</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
 <span class='line-number'>3</span>
 <span class='line-number'>4</span>
@@ -216,7 +216,7 @@ Like, seriously, a <em>LOT</em> of text</strong></p>
 
 <h4>Links and Email</h4>
 
-<p>An email <a href="&#109;&#97;&#105;&#x6c;&#x74;&#111;&#x3a;&#101;&#x78;&#97;&#x6d;&#112;&#x6c;&#101;&#64;&#x65;&#120;&#97;&#x6d;&#x70;&#x6c;&#x65;&#x2e;&#x63;&#x6f;&#109;">&#101;&#120;&#97;&#x6d;&#112;&#108;&#x65;&#x40;&#x65;&#120;&#x61;&#x6d;&#112;&#108;&#x65;&#x2e;&#x63;&#111;&#x6d;</a> link.</p>
+<p>An email <a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#111;&#58;&#101;&#120;&#x61;&#109;&#x70;&#108;&#x65;&#64;&#x65;&#x78;&#97;&#109;&#x70;&#x6c;&#101;&#46;&#x63;&#111;&#109;">&#x65;&#120;&#97;&#x6d;&#112;&#x6c;&#x65;&#x40;&#101;&#120;&#x61;&#109;&#112;&#x6c;&#x65;&#46;&#x63;&#111;&#x6d;</a> link.</p>
 
 <p>Simple inline link <a href="http://chenluois.com">http://chenluois.com</a>, another inline link <a href="http://smallerapp.com">Smaller</a>, one more inline link with title <a href="http://resizesafari.com" title="a Safari extension">Resize</a>.</p>
 
@@ -324,7 +324,7 @@ Above line ended with 2 spaces.</p>
 
 <p>Start with a line containing 3 or more backticks, and ends with the first line with the same number of backticks:</p>
 
-<figure class='code'><figcaption><span>ColorScraper.java start:44 mark:54-56</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<figure class='code'><figcaption><span>ColorScraper.java start:22 mark:24-26</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
 <span class='line-number'>3</span>
 </pre></td><td class='code'><pre><code class='java'><span class='line'><span class="n">Fenced</span> <span class="n">code</span> <span class="n">blocks</span> <span class="n">are</span> <span class="n">like</span> <span class="n">Stardard</span> <span class="n">Markdown</span><span class="err">’</span><span class="n">s</span> <span class="n">regular</span> <span class="n">code</span>
