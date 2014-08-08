@@ -4,7 +4,7 @@
   <title><![CDATA[Artifact]]></title>
   <link href="http://kailun-wu.github.io/atom.xml" rel="self"/>
   <link href="http://kailun-wu.github.io/"/>
-  <updated>2014-08-08T00:48:33-04:00</updated>
+  <updated>2014-08-08T00:55:12-04:00</updated>
   <id>http://kailun-wu.github.io/</id>
   <author>
     <name><![CDATA[Kailun Wu]]></name>
@@ -17,7 +17,22 @@
     <link href="http://kailun-wu.github.io/blog/code/"/>
     <updated>2014-08-08T00:35:23-04:00</updated>
     <id>http://kailun-wu.github.io/blog/code</id>
-    <content type="html"><![CDATA[<p>Let&rsquo;s see if code highlight is alright. The <code>ColorScraper.java</code> source:</p>
+    <content type="html"><![CDATA[<p>Let&rsquo;s see if code highlight is alright.</p>
+
+<figure class='code'><figcaption><span>Discover if a number is prime</span><a href='http://www.noulakaz.net/weblog/2007/03/18/a-regular-expression-to-check-for-prime-numbers/'>Source Article</a></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="k">class</span> <span class="nc">Fixnum</span>
+</span><span class='line'>  <span class="k">def</span> <span class="nf">prime?</span>
+</span><span class='line'>    <span class="p">(</span><span class="s1">&#39;1&#39;</span> <span class="o">*</span> <span class="nb">self</span><span class="p">)</span> <span class="o">!~</span> <span class="sr">/^1?$|^(11+?)\1+$/</span>
+</span><span class='line'>  <span class="k">end</span>
+</span><span class='line'><span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p>The <code>ColorScraper.java</code> source:</p>
 
 <pre><code>package learner;
 
@@ -124,7 +139,7 @@ Like, seriously, a <em>LOT</em> of text</strong></p>
 
 <h4>Links and Email</h4>
 
-<p>An email <a href="&#x6d;&#x61;&#105;&#108;&#x74;&#111;&#58;&#x65;&#x78;&#97;&#109;&#112;&#108;&#101;&#64;&#101;&#x78;&#x61;&#x6d;&#112;&#x6c;&#101;&#x2e;&#x63;&#111;&#109;">&#x65;&#x78;&#97;&#109;&#x70;&#x6c;&#x65;&#x40;&#x65;&#120;&#97;&#x6d;&#x70;&#x6c;&#x65;&#x2e;&#x63;&#x6f;&#x6d;</a> link.</p>
+<p>An email <a href="&#109;&#97;&#x69;&#108;&#116;&#111;&#58;&#101;&#x78;&#x61;&#109;&#x70;&#x6c;&#101;&#x40;&#x65;&#x78;&#x61;&#x6d;&#112;&#108;&#x65;&#x2e;&#x63;&#111;&#x6d;">&#101;&#x78;&#97;&#x6d;&#112;&#x6c;&#x65;&#x40;&#x65;&#x78;&#97;&#109;&#112;&#x6c;&#x65;&#46;&#x63;&#111;&#109;</a> link.</p>
 
 <p>Simple inline link <a href="http://chenluois.com">http://chenluois.com</a>, another inline link <a href="http://smallerapp.com">Smaller</a>, one more inline link with title <a href="http://resizesafari.com" title="a Safari extension">Resize</a>.</p>
 
@@ -232,12 +247,13 @@ Above line ended with 2 spaces.</p>
 
 <p>Start with a line containing 3 or more backticks, and ends with the first line with the same number of backticks:</p>
 
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<figure class='code'><figcaption><span>Discover if a number is prime</span><a href='http://www.noulakaz.net/weblog/2007/03/18/a-regular-expression-to-check-for-prime-numbers/'>Source Article</a></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
 <span class='line-number'>3</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>Fenced code blocks are like Stardard Markdown’s regular code
-</span><span class='line'>blocks, except that they’re not indented and instead rely on
-</span><span class='line'>a start and end fence lines to delimit the code block.</span></code></pre></td></tr></table></div></figure>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="no">Fenced</span> <span class="n">code</span> <span class="n">blocks</span> <span class="n">are</span> <span class="n">like</span> <span class="no">Stardard</span> <span class="no">Markdown</span><span class="err">’</span><span class="n">s</span> <span class="n">regular</span> <span class="n">code</span>
+</span><span class='line'><span class="n">blocks</span><span class="p">,</span> <span class="n">except</span> <span class="n">that</span> <span class="n">they</span><span class="err">’</span><span class="n">re</span> <span class="ow">not</span> <span class="n">indented</span> <span class="ow">and</span> <span class="n">instead</span> <span class="n">rely</span> <span class="n">on</span>
+</span><span class='line'><span class="n">a</span> <span class="n">start</span> <span class="ow">and</span> <span class="k">end</span> <span class="n">fence</span> <span class="n">lines</span> <span class="n">to</span> <span class="n">delimit</span> <span class="n">the</span> <span class="n">code</span> <span class="n">block</span><span class="o">.</span>
+</span></code></pre></td></tr></table></div></figure>
 
 
 <h4>Tables</h4>
