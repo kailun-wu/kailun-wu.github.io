@@ -155,7 +155,6 @@ a.category
 {
 	#header
 	{
-		font-size: 10px;
 		margin-bottom: 0;
 	}
 }
@@ -177,7 +176,7 @@ a.category
 	font-family: "Raleway";
 	font-size: 70px;
 	font-weight: 100;
-	letter-spacing: 0.3em;
+	letter-spacing: 0.1em;
 	margin: 15px 0 25px;
 	padding-left: 0.3em;
 }
