@@ -4,7 +4,7 @@
   <title><![CDATA[Artifact]]></title>
   <link href="http://kailun-wu.github.io/atom.xml" rel="self"/>
   <link href="http://kailun-wu.github.io/"/>
-  <updated>2014-08-08T01:04:57-04:00</updated>
+  <updated>2014-08-08T01:11:49-04:00</updated>
   <id>http://kailun-wu.github.io/</id>
   <author>
     <name><![CDATA[Kailun Wu]]></name>
@@ -34,83 +34,160 @@
 
 <p>The <code>ColorScraper.java</code> source:</p>
 
-<pre><code>package learner;
+<figure class='code'><figcaption><span>ColorScraper.java start:44 mark:54-56</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+<span class='line-number'>33</span>
+<span class='line-number'>34</span>
+<span class='line-number'>35</span>
+<span class='line-number'>36</span>
+<span class='line-number'>37</span>
+<span class='line-number'>38</span>
+<span class='line-number'>39</span>
+<span class='line-number'>40</span>
+<span class='line-number'>41</span>
+<span class='line-number'>42</span>
+<span class='line-number'>43</span>
+<span class='line-number'>44</span>
+<span class='line-number'>45</span>
+<span class='line-number'>46</span>
+<span class='line-number'>47</span>
+<span class='line-number'>48</span>
+<span class='line-number'>49</span>
+<span class='line-number'>50</span>
+<span class='line-number'>51</span>
+<span class='line-number'>52</span>
+<span class='line-number'>53</span>
+<span class='line-number'>54</span>
+<span class='line-number'>55</span>
+<span class='line-number'>56</span>
+<span class='line-number'>57</span>
+<span class='line-number'>58</span>
+<span class='line-number'>59</span>
+<span class='line-number'>60</span>
+<span class='line-number'>61</span>
+<span class='line-number'>62</span>
+<span class='line-number'>63</span>
+<span class='line-number'>64</span>
+<span class='line-number'>65</span>
+<span class='line-number'>66</span>
+<span class='line-number'>67</span>
+<span class='line-number'>68</span>
+<span class='line-number'>69</span>
+<span class='line-number'>70</span>
+<span class='line-number'>71</span>
+<span class='line-number'>72</span>
+<span class='line-number'>73</span>
+<span class='line-number'>74</span>
+<span class='line-number'>75</span>
+<span class='line-number'>76</span>
+</pre></td><td class='code'><pre><code class='java'><span class='line'><span class="kn">package</span> <span class="n">learner</span><span class="o">;</span>
+</span><span class='line'>
+</span><span class='line'><span class="kn">import</span> <span class="nn">org.jsoup.Jsoup</span><span class="o">;</span>
+</span><span class='line'><span class="kn">import</span> <span class="nn">org.jsoup.nodes.Document</span><span class="o">;</span>
+</span><span class='line'>
+</span><span class='line'><span class="kn">import</span> <span class="nn">java.io.BufferedReader</span><span class="o">;</span>
+</span><span class='line'><span class="kn">import</span> <span class="nn">java.io.BufferedWriter</span><span class="o">;</span>
+</span><span class='line'><span class="kn">import</span> <span class="nn">java.io.File</span><span class="o">;</span>
+</span><span class='line'><span class="kn">import</span> <span class="nn">java.io.FileWriter</span><span class="o">;</span>
+</span><span class='line'><span class="kn">import</span> <span class="nn">java.io.IOException</span><span class="o">;</span>
+</span><span class='line'><span class="kn">import</span> <span class="nn">java.io.InputStreamReader</span><span class="o">;</span>
+</span><span class='line'><span class="kn">import</span> <span class="nn">java.net.MalformedURLException</span><span class="o">;</span>
+</span><span class='line'><span class="kn">import</span> <span class="nn">java.net.URL</span><span class="o">;</span>
+</span><span class='line'><span class="kn">import</span> <span class="nn">java.net.URLConnection</span><span class="o">;</span>
+</span><span class='line'>
+</span><span class='line'><span class="c1">// Fetch the palette data of Dribbble artworks from dribbble.com</span>
+</span><span class='line'><span class="c1">// Please change the startId and endId to specify the range of fetching</span>
+</span><span class='line'><span class="c1">// Id and palette of every scraped web pages will be seen in the console</span>
+</span><span class='line'><span class="c1">// Id and palette of every artwork will be written into a text file</span>
+</span><span class='line'><span class="c1">// Thus any web page without artwork content are seen in the console but are omitted in the file</span>
+</span><span class='line'>
+</span><span class='line'><span class="kd">public</span> <span class="kd">class</span> <span class="nc">ColorScraper</span> <span class="o">{</span>
+</span><span class='line'>    <span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span><span class="o">[]</span> <span class="n">args</span><span class="o">)</span> <span class="o">{</span>
+</span><span class='line'>        <span class="kt">int</span> <span class="n">startId</span> <span class="o">=</span> <span class="mi">1465000</span><span class="o">;</span>
+</span><span class='line'>        <span class="kt">int</span> <span class="n">endId</span>   <span class="o">=</span> <span class="mi">1500000</span><span class="o">;</span>
+</span><span class='line'>        <span class="k">try</span> <span class="o">{</span>
+</span><span class='line'>            <span class="n">File</span> <span class="n">file</span> <span class="o">=</span> <span class="k">new</span> <span class="nf">File</span><span class="o">(</span><span class="s">&quot;Colors-&quot;</span> <span class="o">+</span> <span class="n">startId</span> <span class="o">+</span> <span class="s">&quot;-&quot;</span> <span class="o">+</span> <span class="n">endId</span> <span class="o">+</span> <span class="s">&quot;.txt&quot;</span><span class="o">);</span>
+</span><span class='line'>            <span class="n">BufferedWriter</span> <span class="n">writer</span> <span class="o">=</span> <span class="k">new</span> <span class="nf">BufferedWriter</span><span class="o">(</span><span class="k">new</span> <span class="nf">FileWriter</span><span class="o">(</span><span class="n">file</span><span class="o">));</span>
+</span><span class='line'>            <span class="k">for</span> <span class="o">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="n">startId</span><span class="o">;</span> <span class="n">i</span> <span class="o">&lt;=</span> <span class="n">endId</span><span class="o">;</span> <span class="n">i</span><span class="o">++)</span> <span class="o">{</span>
+</span><span class='line'>                <span class="k">try</span> <span class="o">{</span>
+</span><span class='line'>                    <span class="n">Thread</span><span class="o">.</span><span class="na">sleep</span><span class="o">(</span><span class="mi">1000</span><span class="o">);</span>
+</span><span class='line'>                <span class="o">}</span> <span class="k">catch</span> <span class="o">(</span><span class="n">InterruptedException</span> <span class="n">e</span><span class="o">)</span> <span class="o">{</span>
+</span><span class='line'>                    <span class="c1">// handle the exception...</span>
+</span><span class='line'>                <span class="o">}</span>
+</span><span class='line'>                <span class="n">String</span> <span class="n">html</span> <span class="o">=</span> <span class="n">getUrl</span><span class="o">(</span><span class="s">&quot;https://dribbble.com/shots/&quot;</span> <span class="o">+</span> <span class="n">Integer</span><span class="o">.</span><span class="na">toString</span><span class="o">(</span><span class="n">i</span><span class="o">));</span>
+</span><span class='line'>                <span class="n">Document</span> <span class="n">doc</span> <span class="o">=</span> <span class="n">Jsoup</span><span class="o">.</span><span class="na">parse</span><span class="o">(</span><span class="n">html</span><span class="o">);</span>
+</span><span class='line'>                <span class="n">String</span> <span class="n">color</span> <span class="o">=</span> <span class="n">doc</span><span class="o">.</span><span class="na">select</span><span class="o">(</span><span class="s">&quot;li[class=color]&quot;</span><span class="o">).</span><span class="na">text</span><span class="o">();</span>
+</span><span class='line'>                <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="n">Integer</span><span class="o">.</span><span class="na">toString</span><span class="o">(</span><span class="n">i</span><span class="o">)</span> <span class="o">+</span> <span class="s">&quot; &quot;</span> <span class="o">+</span> <span class="n">color</span><span class="o">);</span>
+</span><span class='line'>                <span class="k">if</span> <span class="o">(</span><span class="n">color</span><span class="o">.</span><span class="na">length</span><span class="o">()</span> <span class="o">!=</span> <span class="mi">0</span><span class="o">)</span> <span class="o">{</span>
+</span><span class='line'>                    <span class="n">writer</span><span class="o">.</span><span class="na">write</span><span class="o">(</span><span class="n">Integer</span><span class="o">.</span><span class="na">toString</span><span class="o">(</span><span class="n">i</span><span class="o">)</span> <span class="o">+</span> <span class="s">&quot; &quot;</span> <span class="o">+</span> <span class="n">color</span><span class="o">);</span>
+</span><span class='line'>                    <span class="n">writer</span><span class="o">.</span><span class="na">newLine</span><span class="o">();</span>
+</span><span class='line'>                <span class="o">}</span>
+</span><span class='line'>            <span class="o">}</span>
+</span><span class='line'>            <span class="n">writer</span><span class="o">.</span><span class="na">close</span><span class="o">();</span>
+</span><span class='line'>        <span class="o">}</span> <span class="k">catch</span> <span class="o">(</span><span class="n">IOException</span> <span class="n">e</span><span class="o">)</span> <span class="o">{</span>
+</span><span class='line'>            <span class="n">e</span><span class="o">.</span><span class="na">printStackTrace</span><span class="o">();</span>
+</span><span class='line'>        <span class="o">}</span>
+</span><span class='line'>    <span class="o">}</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="kd">public</span> <span class="kd">static</span> <span class="n">String</span> <span class="nf">getUrl</span><span class="o">(</span><span class="n">String</span> <span class="n">url</span><span class="o">)</span> <span class="o">{</span>
+</span><span class='line'>        <span class="n">URL</span> <span class="n">urlObj</span> <span class="o">=</span> <span class="kc">null</span><span class="o">;</span>
+</span><span class='line'>        <span class="k">try</span> <span class="o">{</span>
+</span><span class='line'>            <span class="n">urlObj</span> <span class="o">=</span> <span class="k">new</span> <span class="nf">URL</span><span class="o">(</span><span class="n">url</span><span class="o">);</span>
+</span><span class='line'>        <span class="o">}</span> <span class="k">catch</span> <span class="o">(</span><span class="n">MalformedURLException</span> <span class="n">e</span><span class="o">)</span> <span class="o">{</span>
+</span><span class='line'>            <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="s">&quot;The url was malformed!&quot;</span><span class="o">);</span>
+</span><span class='line'>            <span class="k">return</span> <span class="s">&quot;&quot;</span><span class="o">;</span>
+</span><span class='line'>        <span class="o">}</span>
+</span><span class='line'>        <span class="n">URLConnection</span> <span class="n">urlCon</span> <span class="o">=</span> <span class="kc">null</span><span class="o">;</span>
+</span><span class='line'>        <span class="n">BufferedReader</span> <span class="n">in</span> <span class="o">=</span> <span class="kc">null</span><span class="o">;</span>
+</span><span class='line'>        <span class="n">String</span> <span class="n">outputText</span> <span class="o">=</span> <span class="s">&quot;&quot;</span><span class="o">;</span>
+</span><span class='line'>        <span class="k">try</span> <span class="o">{</span>
+</span><span class='line'>            <span class="n">urlCon</span> <span class="o">=</span> <span class="n">urlObj</span><span class="o">.</span><span class="na">openConnection</span><span class="o">();</span>
+</span><span class='line'>            <span class="n">in</span> <span class="o">=</span> <span class="k">new</span> <span class="nf">BufferedReader</span><span class="o">(</span><span class="k">new</span> <span class="nf">InputStreamReader</span><span class="o">(</span>
+</span><span class='line'>                    <span class="n">urlCon</span><span class="o">.</span><span class="na">getInputStream</span><span class="o">()));</span>
+</span><span class='line'>            <span class="n">String</span> <span class="n">line</span> <span class="o">=</span> <span class="s">&quot;&quot;</span><span class="o">;</span>
+</span><span class='line'>            <span class="k">while</span> <span class="o">((</span><span class="n">line</span> <span class="o">=</span> <span class="n">in</span><span class="o">.</span><span class="na">readLine</span><span class="o">())</span> <span class="o">!=</span> <span class="kc">null</span><span class="o">)</span> <span class="o">{</span>
+</span><span class='line'>                <span class="n">outputText</span> <span class="o">+=</span> <span class="n">line</span><span class="o">;</span>
+</span><span class='line'>            <span class="o">}</span>
+</span><span class='line'>            <span class="n">in</span><span class="o">.</span><span class="na">close</span><span class="o">();</span>
+</span><span class='line'>        <span class="o">}</span> <span class="k">catch</span> <span class="o">(</span><span class="n">IOException</span> <span class="n">e</span><span class="o">)</span> <span class="o">{</span>
+</span><span class='line'>            <span class="c1">//System.out.println(&quot;Empty page(404) or rate limit exceeded&quot;);</span>
+</span><span class='line'>            <span class="k">return</span> <span class="s">&quot;&quot;</span><span class="o">;</span>
+</span><span class='line'>        <span class="o">}</span>
+</span><span class='line'>        <span class="k">return</span> <span class="n">outputText</span><span class="o">;</span>
+</span><span class='line'>    <span class="o">}</span>
+</span><span class='line'><span class="o">}</span>
+</span></code></pre></td></tr></table></div></figure>
 
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.net.MalformedURLException;
-import java.net.URL;
-import java.net.URLConnection;
-
-// Fetch the palette data of Dribbble artworks from dribbble.com
-// Please change the startId and endId to specify the range of fetching
-// Id and palette of every scraped web pages will be seen in the console
-// Id and palette of every artwork will be written into a text file
-// Thus any web page without artwork content are seen in the console but are omitted in the file
-
-public class ColorScraper {
-    public static void main(String[] args) {
-        int startId = 1465000;
-        int endId   = 1500000;
-        try {
-            File file = new File("Colors-" + startId + "-" + endId + ".txt");
-            BufferedWriter writer = new BufferedWriter(new FileWriter(file));
-            for (int i = startId; i &lt;= endId; i++) {
-                try {
-                    Thread.sleep(1000);
-                } catch (InterruptedException e) {
-                    // handle the exception...
-                }
-                String html = getUrl("https://dribbble.com/shots/" + Integer.toString(i));
-                Document doc = Jsoup.parse(html);
-                String color = doc.select("li[class=color]").text();
-                System.out.println(Integer.toString(i) + " " + color);
-                if (color.length() != 0) {
-                    writer.write(Integer.toString(i) + " " + color);
-                    writer.newLine();
-                }
-            }
-            writer.close();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
-
-    public static String getUrl(String url) {
-        URL urlObj = null;
-        try {
-            urlObj = new URL(url);
-        } catch (MalformedURLException e) {
-            System.out.println("The url was malformed!");
-            return "";
-        }
-        URLConnection urlCon = null;
-        BufferedReader in = null;
-        String outputText = "";
-        try {
-            urlCon = urlObj.openConnection();
-            in = new BufferedReader(new InputStreamReader(
-                    urlCon.getInputStream()));
-            String line = "";
-            while ((line = in.readLine()) != null) {
-                outputText += line;
-            }
-            in.close();
-        } catch (IOException e) {
-            //System.out.println("Empty page(404) or rate limit exceeded");
-            return "";
-        }
-        return outputText;
-    }
-}
-</code></pre>
 
 <p>And here&rsquo;re some text to test <code>Markdown</code>:</p>
 
@@ -139,7 +216,7 @@ Like, seriously, a <em>LOT</em> of text</strong></p>
 
 <h4>Links and Email</h4>
 
-<p>An email <a href="&#x6d;&#x61;&#105;&#108;&#x74;&#111;&#x3a;&#101;&#120;&#97;&#x6d;&#x70;&#x6c;&#x65;&#64;&#x65;&#x78;&#97;&#109;&#x70;&#x6c;&#101;&#46;&#x63;&#x6f;&#109;">&#x65;&#x78;&#97;&#109;&#x70;&#x6c;&#x65;&#x40;&#x65;&#120;&#x61;&#109;&#x70;&#x6c;&#x65;&#46;&#99;&#111;&#x6d;</a> link.</p>
+<p>An email <a href="&#109;&#97;&#105;&#x6c;&#x74;&#111;&#x3a;&#101;&#x78;&#97;&#x6d;&#112;&#x6c;&#101;&#64;&#x65;&#120;&#97;&#x6d;&#x70;&#x6c;&#x65;&#x2e;&#x63;&#x6f;&#109;">&#101;&#120;&#97;&#x6d;&#112;&#108;&#x65;&#x40;&#x65;&#120;&#x61;&#x6d;&#112;&#108;&#x65;&#x2e;&#x63;&#111;&#x6d;</a> link.</p>
 
 <p>Simple inline link <a href="http://chenluois.com">http://chenluois.com</a>, another inline link <a href="http://smallerapp.com">Smaller</a>, one more inline link with title <a href="http://resizesafari.com" title="a Safari extension">Resize</a>.</p>
 
@@ -247,12 +324,12 @@ Above line ended with 2 spaces.</p>
 
 <p>Start with a line containing 3 or more backticks, and ends with the first line with the same number of backticks:</p>
 
-<figure class='code'><figcaption><span>Discover if a number is prime</span><a href='http://www.noulakaz.net/weblog/2007/03/18/a-regular-expression-to-check-for-prime-numbers/'>Source Article</a></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<figure class='code'><figcaption><span>ColorScraper.java start:44 mark:54-56</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
 <span class='line-number'>3</span>
-</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="no">Fenced</span> <span class="n">code</span> <span class="n">blocks</span> <span class="n">are</span> <span class="n">like</span> <span class="no">Stardard</span> <span class="no">Markdown</span><span class="err">’</span><span class="n">s</span> <span class="n">regular</span> <span class="n">code</span>
-</span><span class='line'><span class="n">blocks</span><span class="p">,</span> <span class="n">except</span> <span class="n">that</span> <span class="n">they</span><span class="err">’</span><span class="n">re</span> <span class="ow">not</span> <span class="n">indented</span> <span class="ow">and</span> <span class="n">instead</span> <span class="n">rely</span> <span class="n">on</span>
-</span><span class='line'><span class="n">a</span> <span class="n">start</span> <span class="ow">and</span> <span class="k">end</span> <span class="n">fence</span> <span class="n">lines</span> <span class="n">to</span> <span class="n">delimit</span> <span class="n">the</span> <span class="n">code</span> <span class="n">block</span><span class="o">.</span>
+</pre></td><td class='code'><pre><code class='java'><span class='line'><span class="n">Fenced</span> <span class="n">code</span> <span class="n">blocks</span> <span class="n">are</span> <span class="n">like</span> <span class="n">Stardard</span> <span class="n">Markdown</span><span class="err">’</span><span class="n">s</span> <span class="n">regular</span> <span class="n">code</span>
+</span><span class='line'><span class="n">blocks</span><span class="o">,</span> <span class="n">except</span> <span class="n">that</span> <span class="n">they</span><span class="err">’</span><span class="n">re</span> <span class="n">not</span> <span class="n">indented</span> <span class="n">and</span> <span class="n">instead</span> <span class="n">rely</span> <span class="n">on</span>
+</span><span class='line'><span class="n">a</span> <span class="n">start</span> <span class="n">and</span> <span class="n">end</span> <span class="n">fence</span> <span class="n">lines</span> <span class="n">to</span> <span class="n">delimit</span> <span class="n">the</span> <span class="n">code</span> <span class="n">block</span><span class="o">.</span>
 </span></code></pre></td></tr></table></div></figure>
 
 
