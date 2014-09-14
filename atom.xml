@@ -4,7 +4,7 @@
   <title><![CDATA[Artifact]]></title>
   <link href="http://kailun-wu.github.io/atom.xml" rel="self"/>
   <link href="http://kailun-wu.github.io/"/>
-  <updated>2014-09-13T16:59:22-04:00</updated>
+  <updated>2014-09-14T16:48:39-04:00</updated>
   <id>http://kailun-wu.github.io/</id>
   <author>
     <name><![CDATA[Kailun Wu]]></name>
@@ -19,11 +19,19 @@
     <id>http://kailun-wu.github.io/blog/sept-2013-apple-keynote-take-on</id>
     <content type="html"><![CDATA[<p>I&rsquo;m sad to know the absence of new 4-inch models. Where&rsquo;re the 4-inch iPhones for the rest of us? The stasis on screen size during the 4-inch era and the sudden transition to 4.7-inch and 5.5-inch are not the optimal roadmap, unless Apple are quite confident about the mainstream adoption of 4.7-inch this time. Anyway, people who love 4-inch should be able to get a top-notch iPhone every year, right?</p>
 
-<p>On the watch: fundamentally, why do I have to bear with the complexity of managing yet another device? <a href="http://stratechery.com/2014/apple-watch-asking-saying/">The lack of explaining</a> on why it needs to exist made the keynote less compelling. Tim Cook never talk about the incentives and human factors as much <a href="http://longform.org/stories/playboy-interview-steve-jobs">as Steve did</a> because liberal arts seem not so innate to Tim.</p>
+<p>On the watch: fundamentally, why do I have to bear with the complexity of managing yet another device? <a href="http://stratechery.com/2014/apple-watch-asking-saying/">The lack of explaining</a> on why it needs to exist made the keynote less compelling.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> Tim Cook never talk about the incentives and human factors as much <a href="http://longform.org/stories/playboy-interview-steve-jobs">as Steve did</a> because liberal arts seem not so innate to Tim.</p>
 
 <p>Apple is more capable of developing system and applications now. This is more evident on the new watch. The original iPhone and iPad came with limited features, and the delay of OS X Leopard was caused by developing that very iPhone. But the apps and services on the watch are abundant on day one. Only the hardware definitely needs more iterations. I can&rsquo;t wait for <a href="http://www.hi-id.com/?p=2639">the iPhone-4-equivalent</a> of it because I&rsquo;m even more extreme than Braun on minimal and angular chassis.</p>
 
-<p>The last thing: seriously, Jony Ive should leave icons alone! Icons in iOS 8 are still overly saturated and arbitrary to me. The only applicable wallpapers to me on iOS are limited to dark ones because of the vibrancy of app icons. We&rsquo;ve seen Apple design went extreme and weird before returning to rational. Hopefully it&rsquo;ll happen to iOS icons as well, quickly.</p>
+<p>Seriously, Jony Ive should leave icons alone! Icons in iOS 8 are still overly saturated and arbitrary to me. The only applicable wallpapers to me on iOS are limited to dark ones because of the vibrancy of app icons. We&rsquo;ve seen Apple design went extreme and weird before returning to rational. Hopefully it&rsquo;ll happen to iOS icons as well, quickly.</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>In <a href="http://exponent.fm/episode-017-lets-end-it-there-updated/">the 17th episode</a> of Exponent, Ben Thompson said that the lack of reasoning and the massive amount of features may indicate a lack of clear sense on the watch within Apple. To consumers, too much features dilute the <em>essential</em> functions that makes the new category compelling.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
 ]]></content>
   </entry>
   
