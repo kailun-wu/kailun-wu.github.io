@@ -336,7 +336,7 @@ article .entry-content blockquote
 article .entry-content blockquote p
 {
 	color: #707070;
-	font-size: 14px;
+	font-size: 1.0em;
 }
 article .entry-content blockquote>p:first-of-type
 {
