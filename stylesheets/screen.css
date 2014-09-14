@@ -118,7 +118,7 @@ a.category
 	border: none;
 	content: attr(data-pullquote);
 	float: right;
-	font-size: 14px;
+	font-size: 1.0em;
 	line-height: 1.45em;
 	margin: .5em 0 1em 1.5em;
 	padding: 0;
@@ -336,7 +336,7 @@ article .entry-content blockquote
 article .entry-content blockquote p
 {
 	color: #999;
-	font-size: 0.9em;
+	font-size: 14px;
 }
 article .entry-content blockquote>p:first-of-type
 {
