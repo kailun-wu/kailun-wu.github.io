@@ -4,13 +4,35 @@
   <title><![CDATA[Artifact]]></title>
   <link href="http://kailun-wu.github.io/atom.xml" rel="self"/>
   <link href="http://kailun-wu.github.io/"/>
-  <updated>2014-09-14T17:52:24-04:00</updated>
+  <updated>2014-09-27T11:28:12-04:00</updated>
   <id>http://kailun-wu.github.io/</id>
   <author>
     <name><![CDATA[Kailun Wu]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New Family Member: Muji]]></title>
+    <link href="http://kailun-wu.github.io/blog/new-family-member-muji/"/>
+    <updated>2014-09-27T10:59:29-04:00</updated>
+    <id>http://kailun-wu.github.io/blog/new-family-member-muji</id>
+    <content type="html"><![CDATA[<p>Here&rsquo;s our new family member, a six-month old cat Muji. Damn she&rsquo;s so naughty!</p>
+
+<p><img src="http://kailun-wu.github.io/images/Muji-cat.jpg" width="350" height="350" title="Plotting the ultimate demise of Green Line" alt="Muji in Boston"></p>
+
+<p>My girlfriend and I have adopted two cats back when we&rsquo;re in Chengdu. This time we went to <a href="https://www.arlboston.org">Animal Rescue League of Boston</a> for adoption.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[My Setup]]></title>
+    <link href="http://kailun-wu.github.io/blog/my-setup/"/>
+    <updated>2014-09-15T16:07:41-04:00</updated>
+    <id>http://kailun-wu.github.io/blog/my-setup</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Final Decision We Must Make]]></title>

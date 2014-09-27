@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: cat | Artifact]]></title>
+  <link href="http://kailun-wu.github.io/blog/categories/cat/atom.xml" rel="self"/>
+  <link href="http://kailun-wu.github.io/"/>
+  <updated>2014-09-27T11:28:12-04:00</updated>
+  <id>http://kailun-wu.github.io/</id>
+  <author>
+    <name><![CDATA[Kailun Wu]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[New Family Member: Muji]]></title>
+    <link href="http://kailun-wu.github.io/blog/new-family-member-muji/"/>
+    <updated>2014-09-27T10:59:29-04:00</updated>
+    <id>http://kailun-wu.github.io/blog/new-family-member-muji</id>
+    <content type="html"><![CDATA[<p>Here&rsquo;s our new family member, a six-month old cat Muji. Damn she&rsquo;s so naughty!</p>
+
+<p><img src="/images/Muji-cat.jpg" width="350" height="350" title="&lsquo;Plotting the ultimate demise of Green Line&rsquo; &lsquo;Muji in Boston&rsquo;" ></p>
+
+<p>My girlfriend and I have adopted two cats back when we&rsquo;re in Chengdu. This time we went to <a href="https://www.arlboston.org">Animal Rescue League of Boston</a> for adoption.</p>
+]]></content>
+  </entry>
+  
+</feed>
