@@ -4,7 +4,7 @@
   <title><![CDATA[Artifact]]></title>
   <link href="http://kailun-wu.github.io/atom.xml" rel="self"/>
   <link href="http://kailun-wu.github.io/"/>
-  <updated>2014-09-27T13:24:46-04:00</updated>
+  <updated>2014-09-27T13:30:22-04:00</updated>
   <id>http://kailun-wu.github.io/</id>
   <author>
     <name><![CDATA[Kailun Wu]]></name>
@@ -40,15 +40,6 @@
 </ol>
 </div>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[My Setup]]></title>
-    <link href="http://kailun-wu.github.io/blog/my-setup/"/>
-    <updated>2014-09-15T16:07:41-04:00</updated>
-    <id>http://kailun-wu.github.io/blog/my-setup</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
