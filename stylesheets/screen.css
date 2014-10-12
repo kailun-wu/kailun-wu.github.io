@@ -170,8 +170,9 @@ a.category
 }
 #header h1
 {
-	font-family: "Helvetica Neue Light";
+	font-family: "HelveticaNeue-Light";
 	font-size: 70px;
+	font-weight: 100;
 	letter-spacing: 0.1em;
 	margin: 15px 0 25px;
 	text-align: center;
