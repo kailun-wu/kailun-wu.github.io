@@ -45,7 +45,7 @@ a
 a:hover
 {
 	text-decoration: none;
-	color: #72e8e8;
+	color: #8cbbbd;
 	moz-transition: color 0.3s;
 	o-transition: color 0.3s;
 	transition: color 0.3s;
@@ -78,7 +78,7 @@ h3 a
 h3 a:hover
 {
 	border-bottom: none;
-	color: #72e8e8;
+	color: #8cbbbd;
 }
 a.category
 {
@@ -170,7 +170,7 @@ a.category
 #header a:hover
 {
 	border-bottom: none;
-	color: #72e8e8;
+	color: #8cbbbd;
 }
 #header h1
 {
