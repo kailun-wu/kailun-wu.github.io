@@ -318,13 +318,10 @@ article .entry-content img,article .entry-content video
 {
 	border-bottom: 0px;
 	border-radius: 5px;
-	box-shadow: 0 0 5px rgba(0,0,0,0.35);
 	height: auto;
 	max-width: 100%;
 	moz-border-radius: 5px;
-	moz-box-shadow: 0 0 5px rgba(0,0,0,0.35);
 	webkit-border-radius: 5px;
-	webkit-box-shadow: 0 0 5px rgba(0,0,0,0.35);
 }
 article .entry-content blockquote
 {
