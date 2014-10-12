@@ -21,12 +21,7 @@ body
 {
 	body
 	{
-		margin: 0 14px;
-	}
-
-	#header
-	{
-		padding-top: 5px;
+		margin: -30px, 14px, 0, 14px ;
 	}
 }
 h1
