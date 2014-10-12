@@ -175,6 +175,7 @@ a.category
 #header h1
 {
 	font-family: "Helvetica Neue";
+	letter-spacing: 0.1em;
 	font-size: 50px;
 	font-weight: 100;
 	margin: 15px 0 25px;
