@@ -326,13 +326,13 @@ article .entry-content img,article .entry-content video
 article .entry-content blockquote
 {
 	background: #fff;
-	border-left: 5px solid #c4c4c4;
+	border-left: 5px solid #d9d9d9;
 	margin-top: 1px;
 	padding: 5px 15px;
 }
 article .entry-content blockquote p
 {
-	color: #616161;
+	color: #737373;
 }
 article .entry-content blockquote>p:first-of-type
 {
