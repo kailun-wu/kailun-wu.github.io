@@ -1,4 +1,3 @@
-@import url("http://fonts.googleapis.com/css?family=Raleway:100");
 *
 {
 	margin: 0;
@@ -171,7 +170,6 @@ a.category
 }
 #header h1
 {
-	font-family: "Raleway";
 	font-size: 70px;
 	font-weight: 100;
 	letter-spacing: 0.1em;
