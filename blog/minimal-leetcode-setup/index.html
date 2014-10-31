@@ -1,0 +1,151 @@
+
+<!DOCTYPE HTML>
+<html lang="en-GB">
+<head>
+	<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+	<title> 
+				Minimal LeetCode Setup | Artifact
+			
+	</title>
+
+	<meta name="author" content="Kailun Wu">
+		
+	<meta name="description" content="A blog written by Kailun Wu."> <meta name="keywords" content="">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<link href="/atom.xml" rel="alternate" title="Artifact" type="application/atom+xml">
+	<link rel="canonical" href="">
+	<link type="image/png" rel="icon" href="/favicon.png">
+	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	
+
+</head>
+
+
+
+<body>
+	<header id="header" class="inner"><h1><a href="/">Artifact</a></h1>
+<span class="tagline">design ・ product ・ craftsmanship</span>
+<!-- <nav id="main-nav"><ul>
+	<li><a href="/about">About</a></li>
+	<li><a href="/archives">Archives</a></li>
+	<li><a href="/contact">Contact</a></li>
+</ul>
+</nav> -->
+<!-- <nav id="mobile-nav"> -->
+<!-- 	<div class="alignleft menu"> -->
+<!-- 		<a class="button">Menu</a> -->
+<!-- 		<div class="container"><ul>
+	<li><a href="/about">About</a></li>
+	<li><a href="/archives">Archives</a></li>
+	<li><a href="/contact">Contact</a></li>
+</ul>
+</div> -->
+<!-- 	</div> -->
+<!-- </nav> -->
+
+
+</header>
+
+	<div id="content" class="inner"><article class="post">
+	<header>
+		<h2 class="title">Minimal LeetCode Setup</h2>
+		<div class="meta date">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2014-10-30T20:44:17-04:00" pubdate data-updated="true">Oct 30<sup>th</sup>, 2014</time></div>
+	</header>
+	<div class="entry-content"><p><a href="https://oj.leetcode.com/problems/">LeetCode Online Judge</a> is a website that hosts algorithm problems and verifies your solutions. Many of my classmates are working hard on it. While far from finishing, I really enjoyed my clean setup.</p>
+
+<p>The way to do it is having two terminal windows opened side by side. On the left, <code>mkdir</code> a new folder to hold all <code>*.java</code> and <code>*.class</code>. Each problem requires exactly one file so I can stay away from any IDE, which is neat. Then in the right terminal window, <code>vim ProblemName.java</code> to start solving a problem:</p>
+
+<ol>
+<li><p>Write the skeleton code.</p>
+
+<pre><code> // https://oj.leetcode.com/problems/ProblemName/
+ public class ProblemName {
+     public static void main(String[] args) {
+     }       
+     public static T solution(K k) {
+     }
+ }
+</code></pre></li>
+<li>Before thinking about solutions, write <em>tests</em> in <code>main()</code>, for I already know the interface of <code>solution()</code>. Tests drive you to cover all the edge cases you&rsquo;d normally overlooked when implementing solutions. Tests inspire me at times.</li>
+<li>Solve the problem by hand, code the idea and run tests.</li>
+<li>Take down notes and remember handy Java methods.</li>
+</ol>
+
+
+<p>When done, in the left terminal use <code>Javac ProblemName.java</code> to compile and <code>Java ProblemName</code> to execute.</p>
+
+<p>This setup becomes more efficient when I&rsquo;m better at Vim. Vim has a seriously deep learning curve but <a href="http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/">Learn Vim Progressively</a> (Chinese version <a href="http://coolshell.cn/articles/5426.html">here</a>) made me pretty adept at it.</p>
+</div>
+
+</article>
+
+	
+	<div class="share">
+	  <!-- <ul> -->
+	  <!--   <li>
+  <a href="https://twitter.com/intent/tweet?text=Minimal LeetCode Setup by @&url=http://kailun-wu.github.io/blog/minimal-leetcode-setup/" title="Share Minimal LeetCode Setup on Twitter">
+    <img src="/images/social/twitter.png" />
+  </a>
+</li>
+ -->
+	  <!--   <li>
+  <a href="https://www.facebook.com/sharer.php?u=http://kailun-wu.github.io/blog/minimal-leetcode-setup/" title="Share Minimal LeetCode Setup on Facebook">
+    <img src="/images/social/facebook.png" />
+  </a>
+</li>
+ -->
+	  <!--   <li>
+  <a href="https://plus.google.com/share?url=http://kailun-wu.github.io/blog/minimal-leetcode-setup/" title="Share Minimal LeetCode Setup on Google Plus">
+    <img src="/images/social/google.png" />
+  </a>
+</li>
+ -->
+	  <!-- </ul> -->
+	</div>
+
+
+
+</div>
+	<footer id="footer" class="inner"><br>
+<br>Hi I'm Kailun, a CS student at NYU.
+<br>A programmer and would-be designer.
+<br>iMessage: kailun-at-me-dot-com.
+<br>
+<br>&copy; 2014
+
+    Kailun Wu
+
+</footer>
+	<script src="/javascripts/slash.js"></script>
+<script src="/javascripts/hyphenator.js"></script>
+
+
+
+
+
+
+
+</body>
+<script>
+  $(document).ready(function() {
+  // Make images center
+  $('p:has(img)').css('text-align', 'center');
+  });
+</script>
+</html>
