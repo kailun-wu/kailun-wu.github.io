@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | Artifact]]></title>
   <link href="http://kailun-wu.github.io/blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://kailun-wu.github.io/"/>
-  <updated>2014-10-30T21:49:02-04:00</updated>
+  <updated>2014-10-30T21:51:19-04:00</updated>
   <id>http://kailun-wu.github.io/</id>
   <author>
     <name><![CDATA[Kailun Wu]]></name>
@@ -41,7 +41,7 @@
 
 <p>When done, in the left terminal use <code>Javac ProblemName.java</code> to compile and <code>Java ProblemName</code> to execute.</p>
 
-<p>This setup becomes more efficient when I&rsquo;m better at Vim. Vim has a seriously deep learning curve but <a href="http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/">Learn Vim Progressively</a> (Chinese version <a href="http://coolshell.cn/articles/5426.html">here</a>) made me pretty adept at it.</p>
+<p>This setup becomes more efficient when I&rsquo;m better at Vim. Vim has a seriously steep learning curve but <a href="http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/">Learn Vim Progressively</a> (Chinese version <a href="http://coolshell.cn/articles/5426.html">here</a>) made me pretty adept at it.</p>
 ]]></content>
   </entry>
   
