@@ -4,7 +4,7 @@
   <title><![CDATA[Artifact]]></title>
   <link href="http://kailun-wu.github.io/atom.xml" rel="self"/>
   <link href="http://kailun-wu.github.io/"/>
-  <updated>2014-11-06T23:21:14-05:00</updated>
+  <updated>2014-11-06T23:22:40-05:00</updated>
   <id>http://kailun-wu.github.io/</id>
   <author>
     <name><![CDATA[Kailun Wu]]></name>
@@ -23,7 +23,7 @@
 
 <ol>
 <li><p>Write the skeleton code.
- &#8220;` [java] [MaxProductSubarray] [<a href="https://oj.leetcode.com/problems/maximum-product-subarray/">https://oj.leetcode.com/problems/maximum-product-subarray/</a>] [online judge]
+ &#8220;` java MaxProductSubarray.java <a href="https://oj.leetcode.com/problems/maximum-product-subarray/">https://oj.leetcode.com/problems/maximum-product-subarray/</a> Online judge
      import java.util.Arrays;</p>
 
 <pre><code> // https://oj.leetcode.com/problems/maximum-product-subarray/
