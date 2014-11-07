@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | Artifact]]></title>
   <link href="http://kailun-wu.github.io/blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://kailun-wu.github.io/"/>
-  <updated>2014-11-06T23:32:23-05:00</updated>
+  <updated>2014-11-06T23:37:48-05:00</updated>
   <id>http://kailun-wu.github.io/</id>
   <author>
     <name><![CDATA[Kailun Wu]]></name>
@@ -22,9 +22,9 @@
 
 <p>The way to do it is having two terminal windows opened side by side. On the left, <code>mkdir</code> a new folder to hold all <code>*.java</code> and <code>*.class</code>. Each problem requires exactly one file so I can stay away from any IDE, which is neat. Then in the right terminal window, say, <code>vim MaxProductSubarray.java</code> to start solving a problem:</p>
 
-<ol>
+<ul>
 <li>Write the skeleton code.</li>
-</ol>
+</ul>
 
 
 <pre><code class="java MaxProductSubarray.java https://oj.leetcode.com/problems/maximum-product-subarray/ Online judge">import java.util.Arrays;
