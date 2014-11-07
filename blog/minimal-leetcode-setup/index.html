@@ -72,35 +72,73 @@
 <p>The way to do it is having two terminal windows opened side by side. On the left, <code>mkdir</code> a new folder to hold all <code>*.java</code> and <code>*.class</code>. Each problem requires exactly one file so I can stay away from any IDE, which is neat. Then in the right terminal window, say, <code>vim MaxProductSubarray.java</code> to start solving a problem:</p>
 
 <ol>
-<li><p>Write the skeleton code.
- &#8220;` java MaxProductSubarray.java <a href="https://oj.leetcode.com/problems/maximum-product-subarray/">https://oj.leetcode.com/problems/maximum-product-subarray/</a> Online judge
-     import java.util.Arrays;</p>
+<li>Write the skeleton code.</li>
+</ol>
 
-<pre><code> // https://oj.leetcode.com/problems/maximum-product-subarray/
 
- public class MaxProductSubarray {
-     public static void main(String[] args) {
-         show(new int[]{5});
-         show(new int[]{-1,3});
-         show(new int[]{2,3,-2,4});
-         show(new int[]{5,2,0,3,9,0});
-         show(new int[]{9,2,4,-3,8,-2,-5});
-     }       
-     public static int maxProduct(int[] A) {
-         return 0;
-     }
-     public static void show(int[] A) {
-         System.out.println(Arrays.toString(A) + 
-             " -&gt; " + maxProduct(A));
-     }
- }
-</code></pre>
+<figure class='code'><figcaption><span>MaxProductSubarray.java</span><a href='https://oj.leetcode.com/problems/maximum-product-subarray/'>Online judge</a></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+</pre></td><td class='code'><pre><code class='java'><span class='line'><span class="kn">import</span> <span class="nn">java.util.Arrays</span><span class="o">;</span>
+</span><span class='line'>  
+</span><span class='line'><span class="c1">// https://oj.leetcode.com/problems/maximum-product-subarray/</span>
+</span><span class='line'>
+</span><span class='line'><span class="kd">public</span> <span class="kd">class</span> <span class="nc">MaxProductSubarray</span> <span class="o">{</span>
+</span><span class='line'>  <span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span><span class="o">[]</span> <span class="n">args</span><span class="o">)</span> <span class="o">{</span>
+</span><span class='line'>              <span class="n">show</span><span class="o">(</span><span class="k">new</span> <span class="kt">int</span><span class="o">[]{</span><span class="mi">5</span><span class="o">});</span>
+</span><span class='line'>              <span class="n">show</span><span class="o">(</span><span class="k">new</span> <span class="kt">int</span><span class="o">[]{-</span><span class="mi">1</span><span class="o">,</span><span class="mi">3</span><span class="o">});</span>
+</span><span class='line'>      <span class="n">show</span><span class="o">(</span><span class="k">new</span> <span class="kt">int</span><span class="o">[]{</span><span class="mi">2</span><span class="o">,</span><span class="mi">3</span><span class="o">,-</span><span class="mi">2</span><span class="o">,</span><span class="mi">4</span><span class="o">});</span>
+</span><span class='line'>              <span class="n">show</span><span class="o">(</span><span class="k">new</span> <span class="kt">int</span><span class="o">[]{</span><span class="mi">5</span><span class="o">,</span><span class="mi">2</span><span class="o">,</span><span class="mi">0</span><span class="o">,</span><span class="mi">3</span><span class="o">,</span><span class="mi">9</span><span class="o">,</span><span class="mi">0</span><span class="o">});</span>
+</span><span class='line'>              <span class="n">show</span><span class="o">(</span><span class="k">new</span> <span class="kt">int</span><span class="o">[]{</span><span class="mi">9</span><span class="o">,</span><span class="mi">2</span><span class="o">,</span><span class="mi">4</span><span class="o">,-</span><span class="mi">3</span><span class="o">,</span><span class="mi">8</span><span class="o">,-</span><span class="mi">2</span><span class="o">,-</span><span class="mi">5</span><span class="o">});</span>
+</span><span class='line'>  <span class="o">}</span>        
+</span><span class='line'>  <span class="kd">public</span> <span class="kd">static</span> <span class="kt">int</span> <span class="nf">maxProduct</span><span class="o">(</span><span class="kt">int</span><span class="o">[]</span> <span class="n">A</span><span class="o">)</span> <span class="o">{</span>
+</span><span class='line'>              <span class="k">return</span> <span class="mi">0</span><span class="o">;</span>
+</span><span class='line'>          <span class="o">}</span>
+</span><span class='line'>          <span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">show</span><span class="o">(</span><span class="kt">int</span><span class="o">[]</span> <span class="n">A</span><span class="o">)</span> <span class="o">{</span>
+</span><span class='line'>              <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="n">Arrays</span><span class="o">.</span><span class="na">toString</span><span class="o">(</span><span class="n">A</span><span class="o">)</span> <span class="o">+</span>
+</span><span class='line'>                  <span class="s">&quot; -&gt; &quot;</span> <span class="o">+</span> <span class="n">maxProduct</span><span class="o">(</span><span class="n">A</span><span class="o">));</span>
+</span><span class='line'>          <span class="o">}</span>
+</span><span class='line'><span class="o">}</span>
+</span></code></pre></td></tr></table></div></figure>
 
-<p> &#8220;`</p></li>
-<li><p>Before thinking about solutions, write <em>tests</em> in <code>main()</code>, for I already know the interface of <code>solution()</code>. Tests drive you to cover all the edge cases you&rsquo;d normally overlooked when implementing solutions. Tests inspire me at times.</p></li>
+
+
+
+<figure class='code'><figcaption><span>Discover if a number is prime</span><a href='http://www.noulakaz.net/weblog/2007/03/18/a-regular-expression-to-check-for-prime-numbers/'>Source Article</a></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="k">class</span> <span class="nc">Fixnum</span>
+</span><span class='line'>  <span class="k">def</span> <span class="nf">prime?</span>
+</span><span class='line'>    <span class="p">(</span><span class="s1">&#39;1&#39;</span> <span class="o">*</span> <span class="nb">self</span><span class="p">)</span> <span class="o">!~</span> <span class="sr">/^1?$|^(11+?)\1+$/</span>
+</span><span class='line'>  <span class="k">end</span>
+</span><span class='line'><span class="k">end</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<ul>
+<li>Before thinking about solutions, write <em>tests</em> in <code>main()</code>, for I already know the interface of <code>solution()</code>. Tests drive you to cover all the edge cases you&rsquo;d normally overlooked when implementing solutions. Tests inspire me at times.</li>
 <li>Solve the problem by hand, code the idea and run tests.</li>
 <li>Take down notes and remember handy Java methods.</li>
-</ol>
+</ul>
 
 
 <p>When done, in the left terminal use <code>javac MaxProductSubarray.java</code> to compile and <code>java MaxProductSubarray</code> to execute. <code>⌘ + 1/2</code> will also do the switching between terminal windows.</p>
