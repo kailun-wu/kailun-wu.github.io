@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | Artifact]]></title>
   <link href="http://kailun-wu.github.io/blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://kailun-wu.github.io/"/>
-  <updated>2014-11-06T23:14:06-05:00</updated>
+  <updated>2014-11-06T23:21:14-05:00</updated>
   <id>http://kailun-wu.github.io/</id>
   <author>
     <name><![CDATA[Kailun Wu]]></name>
@@ -23,11 +23,11 @@
 <p>The way to do it is having two terminal windows opened side by side. On the left, <code>mkdir</code> a new folder to hold all <code>*.java</code> and <code>*.class</code>. Each problem requires exactly one file so I can stay away from any IDE, which is neat. Then in the right terminal window, say, <code>vim MaxProductSubarray.java</code> to start solving a problem:</p>
 
 <ol>
-<li><p>Write the skeleton code.</p>
+<li><p>Write the skeleton code.
+ &#8220;` [java] [MaxProductSubarray] [<a href="https://oj.leetcode.com/problems/maximum-product-subarray/">https://oj.leetcode.com/problems/maximum-product-subarray/</a>] [online judge]
+     import java.util.Arrays;</p>
 
-<pre><code> import java.util.Arrays;
-
- // https://oj.leetcode.com/problems/maximum-product-subarray/
+<pre><code> // https://oj.leetcode.com/problems/maximum-product-subarray/
 
  public class MaxProductSubarray {
      public static void main(String[] args) {
@@ -45,7 +45,9 @@
              " -&gt; " + maxProduct(A));
      }
  }
-</code></pre></li>
+</code></pre>
+
+<p> &#8220;`</p></li>
 <li><p>Before thinking about solutions, write <em>tests</em> in <code>main()</code>, for I already know the interface of <code>solution()</code>. Tests drive you to cover all the edge cases you&rsquo;d normally overlooked when implementing solutions. Tests inspire me at times.</p></li>
 <li>Solve the problem by hand, code the idea and run tests.</li>
 <li>Take down notes and remember handy Java methods.</li>
