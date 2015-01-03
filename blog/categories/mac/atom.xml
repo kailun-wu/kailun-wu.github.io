@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: mac | Artifact]]></title>
+  <link href="http://kailun-wu.github.io/blog/categories/mac/atom.xml" rel="self"/>
+  <link href="http://kailun-wu.github.io/"/>
+  <updated>2015-01-02T23:40:44-05:00</updated>
+  <id>http://kailun-wu.github.io/</id>
+  <author>
+    <name><![CDATA[Kailun Wu]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[RiskCalc: My Very First Mac App]]></title>
+    <link href="http://kailun-wu.github.io/blog/riskcalc-my-very-first-mac-app/"/>
+    <updated>2015-01-02T23:35:50-05:00</updated>
+    <id>http://kailun-wu.github.io/blog/riskcalc-my-very-first-mac-app</id>
+    <content type="html"><![CDATA[<p><img src="/images/RiskCalcScreenshot.png"></p>
+]]></content>
+  </entry>
+  
+</feed>

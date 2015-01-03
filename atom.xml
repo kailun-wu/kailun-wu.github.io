@@ -4,13 +4,22 @@
   <title><![CDATA[Artifact]]></title>
   <link href="http://kailun-wu.github.io/atom.xml" rel="self"/>
   <link href="http://kailun-wu.github.io/"/>
-  <updated>2014-11-06T23:49:34-05:00</updated>
+  <updated>2015-01-02T23:40:44-05:00</updated>
   <id>http://kailun-wu.github.io/</id>
   <author>
     <name><![CDATA[Kailun Wu]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[RiskCalc: My Very First Mac App]]></title>
+    <link href="http://kailun-wu.github.io/blog/riskcalc-my-very-first-mac-app/"/>
+    <updated>2015-01-02T23:35:50-05:00</updated>
+    <id>http://kailun-wu.github.io/blog/riskcalc-my-very-first-mac-app</id>
+    <content type="html"><![CDATA[<p><img src="http://kailun-wu.github.io/images/RiskCalcScreenshot.png"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Minimal LeetCode Setup]]></title>
