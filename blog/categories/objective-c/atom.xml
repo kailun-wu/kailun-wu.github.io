@@ -4,7 +4,7 @@
   <title><![CDATA[Category: objective-c | Artifact]]></title>
   <link href="http://kailun-wu.github.io/blog/categories/objective-c/atom.xml" rel="self"/>
   <link href="http://kailun-wu.github.io/"/>
-  <updated>2015-01-03T11:12:52-05:00</updated>
+  <updated>2015-01-03T11:14:25-05:00</updated>
   <id>http://kailun-wu.github.io/</id>
   <author>
     <name><![CDATA[Kailun Wu]]></name>
@@ -20,9 +20,9 @@
     <id>http://kailun-wu.github.io/blog/riskcalc-my-very-first-mac-app</id>
     <content type="html"><![CDATA[<p><img src="/images/RiskCalcScreenshot.png"></p>
 
-<p style="text-align:center;"> <a href="https://www.dropbox.com/s/l1wa7bfwbkysgl2/RiskCalc.app.zip?dl=0"><img src="/images/RiskCalcIcon.png"></a></p>
+<p style="text-align:center;"> <a href="https://github.com/kailun-wu/kailun-wu.github.io/blob/master/assets/RiskCalc.app.zip?raw=true"><img src="/images/RiskCalcIcon.png"></a></p>
 
-<p style="text-align:center;"> <a href="https://www.dropbox.com/s/l1wa7bfwbkysgl2/RiskCalc.app.zip?dl=0">Download RiskCalc v0.5</a></p>
+<p style="text-align:center;"> <a href="https://github.com/kailun-wu/kailun-wu.github.io/blob/master/assets/RiskCalc.app.zip?raw=true">Download RiskCalc v0.5</a></p>
 ]]></content>
   </entry>
   
