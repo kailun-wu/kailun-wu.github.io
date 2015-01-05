@@ -4,7 +4,7 @@
   <title><![CDATA[Artifact]]></title>
   <link href="http://kailun-wu.github.io/atom.xml" rel="self"/>
   <link href="http://kailun-wu.github.io/"/>
-  <updated>2015-01-04T21:46:16-05:00</updated>
+  <updated>2015-01-04T21:48:43-05:00</updated>
   <id>http://kailun-wu.github.io/</id>
   <author>
     <name><![CDATA[Kailun Wu]]></name>
@@ -28,7 +28,7 @@
     <id>http://kailun-wu.github.io/blog/riskcalc-my-very-first-mac-app</id>
     <content type="html"><![CDATA[<p><img src="http://kailun-wu.github.io/images/RiskCalcScreenshot.png"></p>
 
-<p style="text-align:center;"> <a href="https://github.com/kailun-wu/kailun-wu.github.io/blob/master/assets/RiskCalc.app.zip?raw=true"><img src="http://kailun-wu.github.io/images/RiskCalcIcon.png"></a></p>
+<p style="text-align:center;"> <a href="https://github.com/kailun-wu/kailun-wu.github.io/blob/master/assets/RiskCalc.app.zip?raw=true"><img src="http://kailun-wu.github.io/images/RiskCalcIcon.png" width="70" height="70"></a></p>
 
 <p style="text-align:center;"> <a href="https://github.com/kailun-wu/kailun-wu.github.io/blob/master/assets/RiskCalc.app.zip?raw=true">Download RiskCalc v0.5 for Yosemite</a></p>
 
