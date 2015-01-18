@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | Artifact]]></title>
   <link href="http://kailun-wu.github.io/blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://kailun-wu.github.io/"/>
-  <updated>2015-01-18T11:53:56-05:00</updated>
+  <updated>2015-01-18T11:57:07-05:00</updated>
   <id>http://kailun-wu.github.io/</id>
   <author>
     <name><![CDATA[Kailun Wu]]></name>
@@ -59,8 +59,11 @@ public class MaxProductSubarray {
 
 <p>This setup becomes more efficient when I&rsquo;m better at Vim. Vim has a seriously steep learning curve but <a href="http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/">Learn Vim Progressively</a> (Chinese version <a href="http://coolshell.cn/articles/5426.html">here</a>) made me pretty adept at it.</p>
 
-<iframe src="https://widgets.itunes.apple.com/widget.html?c=jp&brc=FFFFFF&blc=FFFFFF&trc=FFFFFF&tlc=FFFFFF&d=The theme song of the extraordinary Japanese TV series Long Wolf and Cub&t=子連れ狼&m=song&e=song&w=250&h=300&ids=374864529&wt=playlist&partnerId=&affiliate_id=&at=&ct=" frameborder=0 style="overflow-x:hidden;overflow-y:hidden;width:250px;height: 300px;border:0px"></iframe>
+<hr />
 
+<p style="text-align:center;">Please ignore. Testing iTunes widget only.</p>
+
+<p style="text-align:center;"><iframe src="https://widgets.itunes.apple.com/widget.html?c=jp&brc=FFFFFF&blc=FFFFFF&trc=FFFFFF&tlc=FFFFFF&d=The theme song of the extraordinary Japanese TV series Long Wolf and Cub&t=子連れ狼&m=song&e=song&w=250&h=300&ids=374864529&wt=playlist&partnerId=&affiliate_id=&at=&ct=" frameborder=0 style="overflow-x:hidden;overflow-y:hidden;width:250px;height: 300px;border:0px"></iframe></p>
 ]]></content>
   </entry>
   
