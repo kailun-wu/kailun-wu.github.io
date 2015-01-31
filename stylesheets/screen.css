@@ -517,6 +517,7 @@ article .entry-content .video-container iframe,article .entry-content .video-con
 }
 footer
 {
+	font-family: Menlo, Consolas, monospace;
 	font-size: 0.8em;
 	padding: 15px 0;
 	text-align: left;
