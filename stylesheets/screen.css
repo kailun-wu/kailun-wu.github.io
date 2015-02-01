@@ -93,10 +93,10 @@ h3 a:hover
 {
 	font-size: .9em;
 }
-a.category
+/*a.category
 {
 	color: #7492AF;
-}
+}*/
 .alignleft
 {
 	float: left;
