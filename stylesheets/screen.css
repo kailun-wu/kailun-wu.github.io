@@ -534,7 +534,7 @@ article .entry-content .video-container iframe,article .entry-content .video-con
 }
 footer
 {
-	font-family: Consolas, Menlo, monospace;
+	font-family: Menlo, Consolas, monospace;
 	font-size: 0.8em;
 	margin: 0;
 	color: #636363;
