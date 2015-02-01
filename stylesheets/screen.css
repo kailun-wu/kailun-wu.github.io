@@ -78,7 +78,7 @@ h3
 h3 a
 {
 	color: #34495e;
-	font-weight: bold;
+	font-weight: 200;
 	moz-transition: color 0.3s;
 	o-transition: color 0.3s;
 	transition: color 0.3s;
