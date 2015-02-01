@@ -78,11 +78,6 @@ h3 a
 	webkit-transition: color 0.3s;
 	padding-left: 50px;
 }
-h3 a:hover
-{
-	border-bottom: none;
-	color: #8cbbbd;
-}
 @media screen and (max-width: 700px)
 {
 	h3 a
