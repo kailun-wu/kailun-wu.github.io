@@ -259,7 +259,8 @@ article h2.title
 	border-bottom: 0px;
 	color: #34495e;
 	font-size: 24px;
-	font-weight: bold;
+	text-transform: uppercase;
+	font-weight: 500;
 	line-height: 1.2;
 	margin-left: 0px;
 	text-align: left;
