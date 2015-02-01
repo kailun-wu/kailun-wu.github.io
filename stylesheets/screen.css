@@ -89,6 +89,10 @@ h3 a:hover
 	border-bottom: none;
 	color: #8cbbbd;
 }
+.meta
+{
+	font-size: .5em;
+}
 a.category
 {
 	color: #5c9196;
@@ -428,7 +432,7 @@ article .entry-content .video-container iframe,article .entry-content .video-con
 .post .meta
 {
 	color: #333;
-	font-size: 0.7em;
+	font-size: 0.9em;
 }
 /*@media screen and (max-width: 620px)
 {
