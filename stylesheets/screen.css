@@ -20,7 +20,7 @@ body
 }
 @media screen and (max-width: 600px)
 {
-	#content
+	body
 	{
 		margin: -50px 14px 0 14px;
 	}
