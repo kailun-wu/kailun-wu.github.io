@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | ARTIFACT]]></title>
   <link href="http://kailun-wu.github.io/blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://kailun-wu.github.io/"/>
-  <updated>2015-02-01T14:26:41-05:00</updated>
+  <updated>2015-02-01T14:29:28-05:00</updated>
   <id>http://kailun-wu.github.io/</id>
   <author>
     <name><![CDATA[Kailun Wu]]></name>
@@ -68,7 +68,7 @@ public class MaxProductSubarray {
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Mirror of Thought]]></title>
+    <title type="html"><![CDATA[Mirror of Thoughts]]></title>
     <link href="http://kailun-wu.github.io/blog/programming-thinking/"/>
     <updated>2014-09-08T00:59:52-04:00</updated>
     <id>http://kailun-wu.github.io/blog/programming-thinking</id>
