@@ -542,10 +542,9 @@ footer
 	text-align: center;
 }
 
-
-	#typed-cursor {
-	  font-weight: 100;
-    font-size: 30px;
+#typed-cursor {
+	font-weight: 100;
+    font-size: 9px;
     color: black;
 	}
 	 
