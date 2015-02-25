@@ -62,6 +62,7 @@ a:hover
 h3
 {
 	display: block;
+	font-family: Consolas, Menlo;
 	font-size: 16px;
 	font-weight: 100;
 	text-transform: uppercase;
