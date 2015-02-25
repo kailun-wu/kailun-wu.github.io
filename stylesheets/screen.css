@@ -6,7 +6,7 @@
 body
 {
 	background: #fff;
-	font-family: Consolas, "Avenir Next","Helvetica Neue Light","Helvetica Neue",
+	font-family: "Avenir Next","Helvetica Neue Light","Helvetica Neue",
 			"Helvetica","Arial","Lucida Grande",sans-serif;
 	font-size: 16px;
 	line-height: 1.5;
@@ -62,8 +62,8 @@ a:hover
 h3
 {
 	display: block;
-	font-family: Consolas, Menlo;
-	font-size: 16px;
+/*	font-family: Consolas, Menlo;
+*/	font-size: 16px;
 	font-weight: 100;
 	text-transform: uppercase;
 	line-height: 1.2;
