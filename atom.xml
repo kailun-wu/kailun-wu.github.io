@@ -4,13 +4,145 @@
   <title><![CDATA[ARTIFACT]]></title>
   <link href="http://kailun-wu.github.io/atom.xml" rel="self"/>
   <link href="http://kailun-wu.github.io/"/>
-  <updated>2015-02-22T20:14:31-05:00</updated>
+  <updated>2015-02-25T00:16:16-05:00</updated>
   <id>http://kailun-wu.github.io/</id>
   <author>
     <name><![CDATA[Kailun Wu]]></name>
     
   </author>
 
+  
+  <entry>
+    <title type="html"><![CDATA[KBC Poker II Review and Keyboard Remapping Guide]]></title>
+    <link href="http://kailun-wu.github.io/blog/kbc-poker-ii-review-and-keyboard-remapping-guide/"/>
+    <updated>2015-02-25T00:00:15-05:00</updated>
+    <id>http://kailun-wu.github.io/blog/kbc-poker-ii-review-and-keyboard-remapping-guide</id>
+    <content type="html"><![CDATA[<p>Here we talk about a mechanical keyboard that I&rsquo;ve been using for half a year. In short it&rsquo;s an efficient, enjoyable and easy-to-customize small keyboard. And it works remarkably well in my working setup where a display is connected to a closed-lid laptop.</p>
+
+<h2>Why Poker II?</h2>
+
+<p>The reason is that I almost buy everything as small as it should be. (Small is  virtue!) Be it skateboard, laptop, phone or camera. Plus, KBC Poker I was the first mechanical keyboard I&rsquo;ve seen since the 90&rsquo;s. A programmer in Chengdu introduce his Poker I to me 2 years ago. So when it came down to pair my external display with one of the <a href="http://cpkey.com/keyboards/">compact keyboards</a> listed below, I chose a black Poker II with Cherry MX Red switches.</p>
+
+<table>
+<thead>
+<tr>
+<th style="text-align:left;">Model         </th>
+<th style="text-align:right;"> Price </th>
+<th style="text-align:right;"> Layout       </th>
+<th style="text-align:right;"> Keycap      </th>
+<th style="text-align:right;"> Switches         </th>
+<th style="text-align:right;"> Notes            </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">HHKB Pro 2    </td>
+<td style="text-align:right;"> $220  </td>
+<td style="text-align:right;"> non-standard </td>
+<td style="text-align:right;"> PBT         </td>
+<td style="text-align:right;"> Topre            </td>
+<td style="text-align:right;"> Retro, pro-Unix  </td>
+</tr>
+<tr>
+<td style="text-align:left;">KBC Poker II  </td>
+<td style="text-align:right;"> $110  </td>
+<td style="text-align:right;"> standard     </td>
+<td style="text-align:right;"> thick PBT   </td>
+<td style="text-align:right;"> Cherry MX        </td>
+<td style="text-align:right;"> Well-rounded     </td>
+</tr>
+<tr>
+<td style="text-align:left;">Leopold FC660 </td>
+<td style="text-align:right;"> $120  </td>
+<td style="text-align:right;"> non-standard </td>
+<td style="text-align:right;"> dye-sub PBT </td>
+<td style="text-align:right;"> Topre/Cherry MX  </td>
+<td style="text-align:right;"> Has arrow keys   </td>
+</tr>
+<tr>
+<td style="text-align:left;">GeekHack GH60 </td>
+<td style="text-align:right;"> $113  </td>
+<td style="text-align:right;"> (non)standard</td>
+<td style="text-align:right;"> ABS         </td>
+<td style="text-align:right;"> Cherry MX        </td>
+<td style="text-align:right;"> Multiple layouts </td>
+</tr>
+<tr>
+<td style="text-align:left;">KBT Race II   </td>
+<td style="text-align:right;"> $130  </td>
+<td style="text-align:right;"> non-standard </td>
+<td style="text-align:right;"> ABS         </td>
+<td style="text-align:right;"> Cherry MX        </td>
+<td style="text-align:right;"> Actually 75 keys </td>
+</tr>
+<tr>
+<td style="text-align:left;">KBP V60 Mini  </td>
+<td style="text-align:right;"> $90   </td>
+<td style="text-align:right;"> standard     </td>
+<td style="text-align:right;"> ABS         </td>
+<td style="text-align:right;"> Matias/Cherry MX </td>
+<td style="text-align:right;"> Quiet, lighting  </td>
+</tr>
+<tr>
+<td style="text-align:left;">Keycool 84    </td>
+<td style="text-align:right;"> $110  </td>
+<td style="text-align:right;"> non-standard </td>
+<td style="text-align:right;"> PBT         </td>
+<td style="text-align:right;"> Cherry MX        </td>
+<td style="text-align:right;"> Actually 84 keys </td>
+</tr>
+</tbody>
+</table>
+
+
+<p>If you&rsquo;re confused by the naming of Vortex/KBC/KBT/KBP, Key Chatter has <a href="http://www.keychatter.com/2015/02/10/vortex-vs-kbt-vs-kbc-vs-kbp-what-are-the-differences/">explained</a> it all. If you want a keyboard that lasts and can be easily customized, a standard US/ISO layout and Cherry MX switches are most common, supported by nearly every custom keycap set and aluminum case. For a clear video review on Poker II, you can also check out <a href="https://rhinofeed.com/poker-ii-review/">Rhinofeed</a>.</p>
+
+<h2>Drawbacks</h2>
+
+<p>Keycaps: The characters seem to be laser etched and the <code>"W A S D"</code> have already been worn out slightly.</p>
+
+<p>Stabilizer: The <a href="http://www.reddit.com/r/MechanicalKeyboards/wiki/modifications">Cherry stabilizer</a> on mine sounds loose when pressed but another Poker II of my girlfriend sounds quite robust. Maybe I should lube mine.</p>
+
+<h2>Simple Remapping Guide for Fast Arrow Keys</h2>
+
+<p>Since there&rsquo;re no arrow keys on a Poker II, you need to press <code>"Fn + W|A|S|D"</code> by default. So here&rsquo;s my remapping guide on a Mac, turning the <code>"CapsLock"</code> into a 2nd <code>"Fn"</code> to make it even quicker than before:</p>
+
+<ol>
+<li>On your Mac, open System Preferences / Keyboard / Modifier Keys / Poker II, swap <code>"Option"</code> with <code>"Command"</code>. Leave the window open.</li>
+<li>On the back of the keyboard, turn on switch 3 and 1.</li>
+<li>On your Mac, on the same System Preferences page, change <code>"CapsLock"</code> to <code>"Option"</code>. Done!</li>
+</ol>
+
+
+<p>From now on, <code>"CapsLock + W|A|S|D"</code> will be <code>"↑|↓|←|→"</code> on this computer. <code>"CapsLock + 1|2"</code> will adjust the screen brightness as well.</p>
+
+<p>Actually, the lack of dedicated <code>"↑ ↓ ← →"</code> on a 60% keyboard might in turn make you type them even faster. Just see how quick it is to press <code>"CapsLock + W|A|S|D"</code>. That&rsquo;s way shorter than moving your right hand back and forth between <code>"J K L ;"</code> and <code>"↑ ↓ ← →"</code> on a bigger keyboard. If you think the effort it saves outweigh the extra press on <code>"CapsLock"</code>, then 60% keyboards suit you better than the 84-key or 104-key ones.</p>
+
+<h2>Keycap Style Guide</h2>
+
+<p>A keyboard is a tool in front of you 24/7 so leaving the keycaps too blank or too flashy will soon be boring. The palettes are at best when most keys are close to black &amp; white and very few modifiers have other colors as highlight.</p>
+
+<p>Overall there&rsquo;re horizontal layout like <a href="http://keypuller.com/skull-squadron/">Skull Squadron key set</a>, and trapezoid layout like <a href="http://keypuller.com/bi-color-pbt-double-shot-by-vortex/">Vortex DoubleShot PBT key set</a>.</p>
+
+<p>Another choice is between blank and printed keycaps. For me blank keycaps are a little too boring after a while and are hard to type numbers and symbols on.</p>
+
+<p>The thickness of the keycap is also critical to the typing sound. WASD Keyboard and Signature Plastic provide some of the most unique but thin keycaps that sound just too weak. Vortex usually offers thick PBT keycaps, especially the even thicker stock keycaps on KBC Poker II (backlight version is thin though).</p>
+
+<p>At last you could choose profile of the keycaps, including the rare roundish <a href="http://keypuller.com/profile/sa/">RA</a> and <a href="http://keypuller.com/profile/dsa/">DSA</a>, and the usual DCS.</p>
+
+<h2>Conclusion</h2>
+
+<p>It almost feels uneasy to talk so fervently about something. Anyway, if you&rsquo;re minimalistic, care enough about your tools, and live off a computer then you should equip yourself with a solid 60% mechanical keyboard.</p>
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/x4lIXsPQC-/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Friends&#39; #mechanicalkeyboard</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by @kailunwu on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-01-15T18:07:15+00:00">Jan 15, 2015 at 10:07am PST</time></p></div></blockquote>
+
+
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+
+<p><br></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[RiskCalc: My Very First Mac App]]></title>
@@ -24,80 +156,6 @@
 <p style="text-align:center;"> <a href="https://github.com/kailun-wu/kailun-wu.github.io/blob/master/assets/RiskCalc.app.zip?raw=true">Download RiskCalc v0.5 for Yosemite</a></p>
 
 <p>RiskCalc is a risk management app that quickly calculate VaR, LGD, histogram and hedge for a trading book of securities. It&rsquo;s my final project for the <a href="http://cs.nyu.edu/courses/fall14/CSCI-GA.2180-001/">Financial Software</a> course at NYU and also my first ever Cocoa app.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Minimal LeetCode Setup]]></title>
-    <link href="http://kailun-wu.github.io/blog/minimal-leetcode-setup/"/>
-    <updated>2014-10-30T20:44:17-04:00</updated>
-    <id>http://kailun-wu.github.io/blog/minimal-leetcode-setup</id>
-    <content type="html"><![CDATA[<p><a href="https://oj.leetcode.com/problems/">LeetCode Online Judge</a> is a website that hosts algorithm problems and verifies your solutions. Many of my classmates are working hard on it. While far from finishing, I really enjoyed my clean setup.</p>
-
-<p>The way to do it is having two terminal windows opened side by side. On the left, <code>mkdir</code> a new folder to hold all <code>*.java</code> and <code>*.class</code>. Each problem requires exactly one file so I can stay away from any IDE, which is neat. Then in the right terminal window, say, <code>vim MaxProductSubarray.java</code> to start solving a problem:</p>
-
-<ul>
-<li>Write the skeleton code.</li>
-</ul>
-
-
-<figure class='code'><figcaption><span>MaxProductSubarray.java</span><a href='https://oj.leetcode.com/problems/maximum-product-subarray/'>Online judge</a></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-<span class='line-number'>14</span>
-<span class='line-number'>15</span>
-<span class='line-number'>16</span>
-<span class='line-number'>17</span>
-<span class='line-number'>18</span>
-<span class='line-number'>19</span>
-</pre></td><td class='code'><pre><code class='java'><span class='line'><span class="kn">import</span> <span class="nn">java.util.Arrays</span><span class="o">;</span>
-</span><span class='line'>  
-</span><span class='line'><span class="c1">// https://oj.leetcode.com/problems/maximum-product-subarray/</span>
-</span><span class='line'>
-</span><span class='line'><span class="kd">public</span> <span class="kd">class</span> <span class="nc">MaxProductSubarray</span> <span class="o">{</span>
-</span><span class='line'>  <span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span><span class="o">[]</span> <span class="n">args</span><span class="o">)</span> <span class="o">{</span>
-</span><span class='line'>    <span class="n">test</span><span class="o">(</span><span class="k">new</span> <span class="kt">int</span><span class="o">[]{</span><span class="mi">5</span><span class="o">});</span>
-</span><span class='line'>    <span class="n">test</span><span class="o">(</span><span class="k">new</span> <span class="kt">int</span><span class="o">[]{-</span><span class="mi">1</span><span class="o">,</span><span class="mi">3</span><span class="o">});</span>
-</span><span class='line'>    <span class="n">test</span><span class="o">(</span><span class="k">new</span> <span class="kt">int</span><span class="o">[]{</span><span class="mi">2</span><span class="o">,</span><span class="mi">3</span><span class="o">,-</span><span class="mi">2</span><span class="o">,</span><span class="mi">4</span><span class="o">});</span>
-</span><span class='line'>    <span class="n">test</span><span class="o">(</span><span class="k">new</span> <span class="kt">int</span><span class="o">[]{</span><span class="mi">5</span><span class="o">,</span><span class="mi">2</span><span class="o">,</span><span class="mi">0</span><span class="o">,</span><span class="mi">3</span><span class="o">,</span><span class="mi">9</span><span class="o">,</span><span class="mi">0</span><span class="o">});</span>
-</span><span class='line'>    <span class="n">test</span><span class="o">(</span><span class="k">new</span> <span class="kt">int</span><span class="o">[]{</span><span class="mi">9</span><span class="o">,</span><span class="mi">2</span><span class="o">,</span><span class="mi">4</span><span class="o">,-</span><span class="mi">3</span><span class="o">,</span><span class="mi">8</span><span class="o">,-</span><span class="mi">2</span><span class="o">,-</span><span class="mi">5</span><span class="o">});</span>
-</span><span class='line'>  <span class="o">}</span>        
-</span><span class='line'>  <span class="kd">public</span> <span class="kd">static</span> <span class="kt">int</span> <span class="nf">maxProduct</span><span class="o">(</span><span class="kt">int</span><span class="o">[]</span> <span class="n">A</span><span class="o">)</span> <span class="o">{</span>
-</span><span class='line'>    <span class="k">return</span> <span class="mi">0</span><span class="o">;</span>
-</span><span class='line'>  <span class="o">}</span>
-</span><span class='line'>  <span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">test</span><span class="o">(</span><span class="kt">int</span><span class="o">[]</span> <span class="n">A</span><span class="o">)</span> <span class="o">{</span>
-</span><span class='line'>    <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="n">Arrays</span><span class="o">.</span><span class="na">toString</span><span class="o">(</span><span class="n">A</span><span class="o">)</span> <span class="o">+</span> <span class="s">&quot; -&gt; &quot;</span> <span class="o">+</span> <span class="n">maxProduct</span><span class="o">(</span><span class="n">A</span><span class="o">));</span>
-</span><span class='line'>  <span class="o">}</span>
-</span><span class='line'><span class="o">}</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-<ul>
-<li>Before thinking about solutions, write <em>tests</em> in <code>main()</code>, for I already know the interface of <code>solution()</code>. Tests drive you to cover all the edge cases you&rsquo;d normally overlooked when implementing solutions. Tests inspire me at times.</li>
-<li>Solve the problem by hand, code the idea and run tests.</li>
-<li>Take down notes and remember handy Java methods.</li>
-</ul>
-
-
-<p>When done, in the left terminal use <code>javac MaxProductSubarray.java</code> to compile and <code>java MaxProductSubarray</code> to execute. <code>⌘ + 1/2</code> will also do the switching between terminal windows.</p>
-
-<p>This setup becomes more efficient when I&rsquo;m better at Vim. Vim has a seriously steep learning curve but <a href="http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/">Learn Vim Progressively</a> (Chinese version <a href="http://coolshell.cn/articles/5426.html">here</a>) made me pretty adept at it.</p>
-
-<hr />
-
-<p style="text-align:center;">Please ignore. Testing iTunes widget only.</p>
-
-<p style="text-align:center;"><iframe src="https://widgets.itunes.apple.com/widget.html?c=jp&brc=FFFFFF&blc=FFFFFF&trc=FFFFFF&tlc=FFFFFF&d=The theme song of the extraordinary Japanese TV series Long Wolf and Cub&t=子連れ狼&m=song&e=song&w=250&h=300&ids=374864529&wt=playlist&partnerId=&affiliate_id=&at=&ct=" frameborder=0 style="overflow-x:hidden;overflow-y:hidden;width:250px;height: 300px;border:0px"></iframe></p>
 ]]></content>
   </entry>
   
