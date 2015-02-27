@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: design | ARTIFACT]]></title>
+  <link href="http://kailun-wu.github.io/blog/categories/design/atom.xml" rel="self"/>
+  <link href="http://kailun-wu.github.io/"/>
+  <updated>2015-02-27T17:10:00-05:00</updated>
+  <id>http://kailun-wu.github.io/</id>
+  <author>
+    <name><![CDATA[Kailun Wu]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Some of My UI Prototypes Using Sketch 3]]></title>
+    <link href="http://kailun-wu.github.io/blog/ui/"/>
+    <updated>2015-02-27T17:06:10-05:00</updated>
+    <id>http://kailun-wu.github.io/blog/ui</id>
+    <content type="html"><![CDATA[<p><img src="http://kailun.me/images/InstagramMac1.png" alt="image" /></p>
+
+<p><img src="http://kailun.me/images/InstagramMac2.png" alt="image" /></p>
+
+<p><img src="http://kailun.me/images/WeightAppPage.png" alt="image" /></p>
+
+<p><img src="http://kailun.me/images/TrendingNow.png" alt="image" /></p>
+
+<p><img src="http://kailun.me/images/thinkplayMac.png" alt="image" /></p>
+]]></content>
+  </entry>
+  
+</feed>
