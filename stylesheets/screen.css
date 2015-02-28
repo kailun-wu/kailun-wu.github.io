@@ -434,6 +434,7 @@ article .entry-content .video-container iframe,article .entry-content .video-con
 {
 	color: #333;
 	font-size: 0.9em;
+	font-weight: 700;
 	padding-left: 0;
 }
 /*@media screen and (max-width: 620px)
