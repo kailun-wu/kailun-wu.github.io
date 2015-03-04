@@ -4,7 +4,7 @@
   <title><![CDATA[Category: design | ARTIFACT]]></title>
   <link href="http://kailun-wu.github.io/blog/categories/design/atom.xml" rel="self"/>
   <link href="http://kailun-wu.github.io/"/>
-  <updated>2015-03-04T00:06:44-05:00</updated>
+  <updated>2015-03-04T00:08:23-05:00</updated>
   <id>http://kailun-wu.github.io/</id>
   <author>
     <name><![CDATA[Kailun Wu]]></name>
@@ -21,13 +21,13 @@
     <content type="html"><![CDATA[<p>These are the UI design that I&rsquo;ve done while playing with <a href="http://bohemiancoding.com/sketch/">Sketch 3</a> - fantastic design app by the way. Most of the techniques are learned by following the nice tutorials on <a href="http://bohemiancoding.com/sketch/">Design + Code</a>.</p>
 
 <p><img src="http://kailun.me/images/InstagramMac1.png" alt="image" />
--> The idea behind Instagram for Mac is that there should be a much simpler Instagram client on the desktop. The current selection of apps are burdened heavily with features and controls, while the photos are not prominent. This prototype places photos upfront and edge to edge, hiding unnecessary controls to focus simply on browsing. Yosemite-style translucent background provides a visual clue: the photos are seemingly on a blurred glass. &lt;-</p>
+The idea behind Instagram for Mac is that there should be a much simpler Instagram client on the desktop. The current selection of apps are burdened heavily with features and controls, while the photos are not prominent. This prototype places photos upfront and edge to edge, hiding unnecessary controls to focus simply on browsing. Yosemite-style translucent background provides a visual clue: the photos are seemingly on a blurred glass.</p>
 
 <p><img src="http://kailun.me/images/InstagramMac2.png" alt="image" />
--> Showing Comments and Profile &lt;-</p>
+Showing Comments and Profile &lt;-</p>
 
 <p><img src="http://kailun.me/images/WeightAppPage.png" alt="image" />
--> The Weight app wants to be your fastest way to log weight as an alternative to the comprehensive health apps. The idea workflow is glancing at your history in the Notification Center widget or recording new weight in the app within seconds. Since the difference between your weight on each day are usually small, less than 3 seconds should be taken to adjust your last day&rsquo;s weight to your new one. Data is stored to your iCloud account (HeathKit) and can be seen in the Health app, which can also log weight but in a much clunky way. &lt;-</p>
+The Weight app wants to be your fastest way to log weight as an alternative to the comprehensive health apps. The idea workflow is glancing at your history in the Notification Center widget or recording new weight in the app within seconds. Since the difference between your weight on each day are usually small, less than 3 seconds should be taken to adjust your last day&rsquo;s weight to your new one. Data is stored to your iCloud account (HeathKit) and can be seen in the Health app, which can also log weight but in a much clunky way.</p>
 
 <p><img src="http://kailun.me/images/TrendingNow.png" alt="image" /></p>
 
