@@ -4,7 +4,7 @@
   <title><![CDATA[Category: design | ARTIFACT]]></title>
   <link href="http://kailun-wu.github.io/blog/categories/design/atom.xml" rel="self"/>
   <link href="http://kailun-wu.github.io/"/>
-  <updated>2015-03-04T00:23:57-05:00</updated>
+  <updated>2015-03-04T00:24:17-05:00</updated>
   <id>http://kailun-wu.github.io/</id>
   <author>
     <name><![CDATA[Kailun Wu]]></name>
@@ -33,7 +33,7 @@ The Weight app wants to be your fastest way to log weight as an alternative to o
 A shabby reading app design for my friend while he was in a programming contest. Sorry about the barely visible thin font.</p>
 
 <p><img src="http://kailun.me/images/thinkplayMac.png" alt="image" />
-Another design showing the native Cocoa version of Thinkplay, which is now in Java.</p>
+Another design showing the Cocoa version of Thinkplay, which is now in Java.</p>
 
 <p>Still these UI are far from being thoroughly thought about and tested. The <a href="http://www.christenseninstitute.org/key-concepts/jobs-to-be-done/">jobs-to-be-done</a><sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> of each product need to be discussed further when making design decisions. Hopefully during this year some of them can be implemented.</p>
 <div class="footnotes">
