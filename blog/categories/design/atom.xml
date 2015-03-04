@@ -4,7 +4,7 @@
   <title><![CDATA[Category: design | ARTIFACT]]></title>
   <link href="http://kailun-wu.github.io/blog/categories/design/atom.xml" rel="self"/>
   <link href="http://kailun-wu.github.io/"/>
-  <updated>2015-03-04T00:08:57-05:00</updated>
+  <updated>2015-03-04T00:19:12-05:00</updated>
   <id>http://kailun-wu.github.io/</id>
   <author>
     <name><![CDATA[Kailun Wu]]></name>
@@ -27,11 +27,15 @@ The idea behind Instagram for Mac is that there should be a much simpler Instagr
 Showing Comments and Profile.</p>
 
 <p><img src="http://kailun.me/images/WeightAppPage.png" alt="image" />
-The Weight app wants to be your fastest way to log weight as an alternative to the comprehensive health apps. The idea workflow is glancing at your history in the Notification Center widget or recording new weight in the app within seconds. Since the difference between your weight on each day are usually small, less than 3 seconds should be taken to adjust your last day&rsquo;s weight to your new one. Data is stored to your iCloud account (HeathKit) and can be seen in the Health app, which can also log weight but in a much clunky way.</p>
+The Weight app wants to be your fastest way to log weight as an alternative to other comprehensive health apps. The idea workflow is glancing at your history in the Notification Center widget or recording new weight in the app within seconds. Since the difference between your weight on each day are usually small, less than 3 seconds should be taken to adjust your last day&rsquo;s weight to your new one. Data is stored to your iCloud account (HeathKit) and can be seen in the Health app, which can also log weight but in a much clunky way.</p>
 
-<p><img src="http://kailun.me/images/TrendingNow.png" alt="image" /></p>
+<p><img src="http://kailun.me/images/TrendingNow.png" alt="image" />
+A shabby reading app design for my friend while he was in a programming contest. Sorry about the barely visible thin font.</p>
 
-<p><img src="http://kailun.me/images/thinkplayMac.png" alt="image" /></p>
+<p><img src="http://kailun.me/images/thinkplayMac.png" alt="image" />
+Another design showing the native Cocoa version of Thinkplay, which is now in Java.</p>
+
+<p>Still these UI are far from being thoroughly thought about and tested. The <a href="http://www.christenseninstitute.org/key-concepts/jobs-to-be-done/">jobs-to-be-done</a> of each product need to be discussed further when making design decisions. Hopefully during this year some of them can be implemented.</p>
 ]]></content>
   </entry>
   
