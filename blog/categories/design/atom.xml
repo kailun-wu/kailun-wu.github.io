@@ -4,7 +4,7 @@
   <title><![CDATA[Category: design | ARTIFACT]]></title>
   <link href="http://kailun-wu.github.io/blog/categories/design/atom.xml" rel="self"/>
   <link href="http://kailun-wu.github.io/"/>
-  <updated>2015-03-04T00:19:12-05:00</updated>
+  <updated>2015-03-04T00:22:03-05:00</updated>
   <id>http://kailun-wu.github.io/</id>
   <author>
     <name><![CDATA[Kailun Wu]]></name>
@@ -35,7 +35,9 @@ A shabby reading app design for my friend while he was in a programming contest.
 <p><img src="http://kailun.me/images/thinkplayMac.png" alt="image" />
 Another design showing the native Cocoa version of Thinkplay, which is now in Java.</p>
 
-<p>Still these UI are far from being thoroughly thought about and tested. The <a href="http://www.christenseninstitute.org/key-concepts/jobs-to-be-done/">jobs-to-be-done</a> of each product need to be discussed further when making design decisions. Hopefully during this year some of them can be implemented.</p>
+<p>Still these UI are far from being thoroughly thought about and tested. The <a href="http://www.christenseninstitute.org/key-concepts/jobs-to-be-done/">jobs-to-be-done</a>[^1] of each product need to be discussed further when making design decisions. Hopefully during this year some of them can be implemented.</p>
+
+<p>[^1] <a href="http://5by5.tv/criticalpath/134">The Critical Path podcast episode #134: Chief Jobs Officer</a>: this episode of Horace Dediu&rsquo;s podcast is so spot on.</p>
 ]]></content>
   </entry>
   
