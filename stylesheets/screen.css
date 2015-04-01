@@ -94,6 +94,13 @@ h3 a
 .navi a {
 	color: #404040;
 }
+@media screen and (max-width: 600px)
+{
+	.navi
+	{
+		margin: 4px 0;
+	}
+}
 
 .meta
 {
