@@ -90,11 +90,11 @@ h3 a
 	margin: 10px 15%;
 	text-transform: uppercase;
 }
-@media screen and (max-width: 1800px)
+@media screen and (max-width: 2200px)
 {
 	.navi
 	{
-		margin: 10px 30%;
+		margin: 10px 20%;
 	}
 }
 @media screen and (max-width: 1300px)
