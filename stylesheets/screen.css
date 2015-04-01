@@ -361,7 +361,7 @@ article .entry-content img,article .entry-content video
 article .entry-content blockquote
 {
 	background: #fff;
-	border-left: 5px solid #d9d9d9;
+	border-left: 2px solid #d9d9d9;
 	margin-top: 1px;
 	padding: 5px 25px;
 }
