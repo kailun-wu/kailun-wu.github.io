@@ -95,7 +95,7 @@ h3 a
 {
 	.navi
 	{
-		margin: 4px 0;
+		margin: 10px 0;
 	}
 }
 
@@ -207,8 +207,7 @@ h3 a
 	color: #3A3A3A;
 	font-family: Inconsolata, "Helvetica Neue", Helvetica;
 	text-transform: uppercase;
-/*	letter-spacing: 0.1em;
-*/	font-size: 30px;
+	font-size: 30px;
 	font-weight: 100;
 	margin: 15px 0 25px;
 	text-align: center;
