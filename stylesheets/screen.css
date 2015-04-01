@@ -13,13 +13,13 @@ body
 	font-weight: 300;
 	line-height: 1.5;
 }
-/*@media screen and (max-width: 800px)
+@media screen and (max-width: 800px)
 {
 	body
 	{
 		margin: 0 130px;
 	}
-}*/
+}
 @media screen and (max-width: 600px)
 {
 	body
@@ -177,8 +177,8 @@ h3 a
 	#header
 	{
 		height: auto;
-		margin-bottom: 0;
-		padding-bottom: 10px;
+/*		margin-bottom: 0;
+*/		padding-bottom: 10px;
 		position: relative;
 	}
 }
