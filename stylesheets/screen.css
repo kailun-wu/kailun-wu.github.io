@@ -12,7 +12,6 @@ body
 	font-size: 14px;
 	font-weight: 300;
 	line-height: 1.5;
-	max-width: 900px;
 }
 @media screen and (max-width: 800px)
 {
@@ -91,6 +90,7 @@ h3 a
 	margin: 10px 15%;
 	color: #3B3B3B;
 	text-transform: uppercase;
+	max-width: 900px;
 }
 
 .meta
