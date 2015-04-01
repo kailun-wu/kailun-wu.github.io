@@ -88,12 +88,12 @@ h3 a
 }
 .navi {
 	margin: 10px 15%;
-	color: #3B3B3B;
-	text-transform: uppercase;
+/*	color: #3B3B3B;
+*/	text-transform: uppercase;
 }
-.navi a {
+/*.navi a {
 	color: #828282;
-}
+}*/
 @media screen and (max-width: 800px)
 {
 	.navi
