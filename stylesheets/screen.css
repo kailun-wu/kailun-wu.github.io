@@ -86,6 +86,10 @@ h3 a
 		padding-left: 0;
 	}
 }
+div .navi {
+	margin: 25px 50px;
+}
+
 .meta
 {
 	font-size: .9em;
