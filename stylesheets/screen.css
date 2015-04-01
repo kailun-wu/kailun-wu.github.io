@@ -44,7 +44,7 @@ h2
 }
 a
 {
-	color: #89929a;
+	color: #3E4B57;
 	moz-transition: border .25s linear;
 	ms-transition: border .25s linear;
 	outline: none;
@@ -88,12 +88,9 @@ h3 a
 }
 .navi {
 	margin: 10px 15%;
-/*	color: #3B3B3B;
-*/	text-transform: uppercase;
+	text-transform: uppercase;
 }
-/*.navi a {
-	color: #828282;
-}*/
+
 @media screen and (max-width: 800px)
 {
 	.navi
