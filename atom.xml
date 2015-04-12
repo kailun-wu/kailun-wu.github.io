@@ -4,7 +4,7 @@
   <title><![CDATA[Minimaluminiumalism]]></title>
   <link href="http://kailun-wu.github.io/atom.xml" rel="self"/>
   <link href="http://kailun-wu.github.io/"/>
-  <updated>2015-04-11T20:12:03-04:00</updated>
+  <updated>2015-04-11T20:21:04-04:00</updated>
   <id>http://kailun-wu.github.io/</id>
   <author>
     <name><![CDATA[Kailun Wu]]></name>
@@ -63,7 +63,7 @@ Another design showing the Cocoa version of Thinkplay. The app is currently buil
 
 <h2>Why Poker II?</h2>
 
-<p>The reason is that I almost buy everything as small as it should be. (Small is  virtue!) Be it skateboard, laptop, phone or camera. Plus, KBC Poker I was the first mechanical keyboard I&rsquo;ve seen since the 90&rsquo;s. A programmer in Chengdu introduce his Poker I to me 2 years ago. So when it came down to pair my external display with one of the <a href="http://cpkey.com/keyboards/">compact keyboards</a> listed below, I chose a black Poker II with Cherry MX Red switches.</p>
+<p>The reason is that I almost buy everything as small as it should be. (Small is a virtue!) Be it skateboard, laptop, phone or camera. Plus, KBC Poker I was the first mechanical keyboard I&rsquo;ve seen since the 90&rsquo;s. A programmer in Chengdu introduce his Poker I to me 2 years ago. So when it came down to pair my external display with one of the <a href="http://cpkey.com/keyboards/">compact keyboards</a> listed below, I chose a black Poker II with Cherry MX Red switches.</p>
 
 <table>
 <thead>
@@ -137,7 +137,7 @@ Another design showing the Cocoa version of Thinkplay. The app is currently buil
 </table>
 
 
-<p>If you&rsquo;re confused by the naming of Vortex/KBC/KBT/KBP, Key Chatter has <a href="http://www.keychatter.com/2015/02/10/vortex-vs-kbt-vs-kbc-vs-kbp-what-are-the-differences/">explained</a> it all. If you want a keyboard that lasts and can be easily customized, a standard US/ISO layout and Cherry MX switches are most common, supported by nearly every custom keycap set and aluminum case. For a clear video review on Poker II, you can also check out <a href="https://rhinofeed.com/poker-ii-review/">Rhinofeed</a>.</p>
+<p>If you&rsquo;re confused by the naming of Vortex/KBC/KBT/KBP, Key Chatter has <a href="http://www.keychatter.com/2015/02/10/vortex-vs-kbt-vs-kbc-vs-kbp-what-are-the-differences/">explained</a> it all. If you want a keyboard that lasts and can be easily customized, a standard US/ISO layout and Cherry MX switches are most common, supported by nearly every custom keycap set and aluminum case. For video review on Poker II, you can also check out the excellent <a href="https://rhinofeed.com/poker-ii-review/">Rhinofeed</a>.</p>
 
 <h2>Drawbacks</h2>
 
@@ -147,30 +147,30 @@ Another design showing the Cocoa version of Thinkplay. The app is currently buil
 
 <h2>Simple Remapping Guide for Fast Arrow Keys</h2>
 
-<p>Since there&rsquo;re no arrow keys on a Poker II, you need to press <code>"Fn + W|A|S|D"</code> by default. So here&rsquo;s my remapping guide on a Mac, turning the <code>"CapsLock"</code> into a 2nd <code>"Fn"</code> to make it even quicker than before:</p>
+<p>Since there&rsquo;re no arrow keys on a Poker II, you need to press <code>Fn + W|A|S|D</code> by default. So here&rsquo;s my remapping guide on a Mac, turning the <code>CapsLock</code> into a 2nd <code>Fn</code> to make it even quicker than before:</p>
 
 <ol>
-<li>On your Mac, open System Preferences / Keyboard / Modifier Keys / Poker II, swap <code>"Option"</code> with <code>"Command"</code>. Leave the window open.</li>
+<li>On your Mac, open System Preferences / Keyboard / Modifier Keys / Poker II, swap <code>Option</code> with <code>Command</code>. Leave the window open.</li>
 <li>On the back of the keyboard, turn on switch 3 and 1.</li>
-<li>On your Mac, on the same System Preferences page, change <code>"CapsLock"</code> to <code>"Option"</code>. Done!</li>
+<li>On your Mac, on the same System Preferences page, change <code>CapsLock</code> to <code>Option</code>. Done!</li>
 </ol>
 
 
-<p>From now on, <code>"CapsLock + W|A|S|D"</code> will be <code>"↑|↓|←|→"</code> on this computer. <code>"CapsLock + 1|2"</code> will adjust the screen brightness as well.</p>
+<p>From now on, <code>CapsLock + W|A|S|D</code> will be <code>"↑|↓|←|→"</code> on this computer. <code>CapsLock + 1|2</code> will adjust the screen brightness as well.</p>
 
-<p>Actually, the lack of dedicated <code>"↑ ↓ ← →"</code> on a 60% keyboard might in turn make you type them even faster. Just see how quick it is to press <code>"CapsLock + W|A|S|D"</code>. That&rsquo;s way shorter than moving your right hand back and forth between <code>"J K L ;"</code> and <code>"↑ ↓ ← →"</code> on a bigger keyboard. If you think the effort it saves outweigh the extra press on <code>"CapsLock"</code>, then 60% keyboards suit you better than the 84-key or 104-key ones.</p>
+<p>Actually, the lack of dedicated <code>↑ ↓ ← →</code> on a 60% keyboard might in turn make you type them even faster. Just see how quick it is to press <code>CapsLock + W|A|S|D</code>. That&rsquo;s way shorter than moving your right hand back and forth between <code>"J K L ;</code> and <code>↑ ↓ ← →</code> on a bigger keyboard. If you think the effort it saves outweigh the extra press on <code>CapsLock</code>, then 60% keyboards suit you better than the 84-key or 104-key ones.</p>
 
 <h2>Keycap Style Guide</h2>
 
 <p>A keyboard is a tool in front of you 24/7 so leaving the keycaps too blank or too flashy will soon be boring. The palettes are at best when most keys are close to black &amp; white and very few modifiers have other colors as highlight.</p>
 
-<p>Overall there&rsquo;re horizontal layout like <a href="http://keypuller.com/skull-squadron/">Skull Squadron key set</a>, and trapezoid layout like <a href="http://keypuller.com/bi-color-pbt-double-shot-by-vortex/">Vortex DoubleShot PBT key set</a>.</p>
+<p>Overall there&rsquo;re &ldquo;horizontal&rdquo; layouts like <a href="http://keypuller.com/skull-squadron/">Skull Squadron key set</a>, and &ldquo;trapezoid&rdquo; layout like <a href="http://keypuller.com/bi-color-pbt-double-shot-by-vortex/">Vortex DoubleShot PBT key set</a>.</p>
 
 <p>Another choice is between blank and printed keycaps. For me blank keycaps are a little too boring after a while and are hard to type numbers and symbols on.</p>
 
-<p>The thickness of the keycap is also critical to the typing sound. WASD Keyboard and Signature Plastic provide some of the most unique but thin keycaps that sound just too weak. Vortex usually offers thick PBT keycaps, especially the even thicker stock keycaps on KBC Poker II (backlight version is thin though).</p>
+<p>The thickness of the keycap is also critical to the typing sound. WASD Keyboard and Signature Plastic provide some of the most unique but thin keycaps that sound just too weak. Vortex, IMSTRO and GMK usually offers thick PBT keycaps, especially the even thicker stock keycaps on KBC Poker II (backlight version is thin though).</p>
 
-<p>At last you could choose profile of the keycaps, including the rare roundish <a href="http://keypuller.com/profile/sa/">RA</a> and <a href="http://keypuller.com/profile/dsa/">DSA</a>, and the usual DCS.</p>
+<p>At last you could choose profile of the keycaps, including the rare roundish <a href="http://keypuller.com/profile/sa/">RA</a> and <a href="http://keypuller.com/profile/dsa/">DSA</a>, and the usual DCS. For DCS, there&rsquo;re OEM profile and the sharper and shorter Cherry profile, which looks better than the former.</p>
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/0InsdyPQGV/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">An unibody aluminum case is just a remarkable upgrade in aesthetics and typing. Also glad to hear that KBC Poker III will come with a stock metal case. #Minimaluminiumalism#mechanicalkeyboard</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Minimaluminiumalism (@kailunwu) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-03-12T16:40:18+00:00">Mar 12, 2015 at 9:40am PDT</time></p></div></blockquote>
 
@@ -182,7 +182,7 @@ Another design showing the Cocoa version of Thinkplay. The app is currently buil
 
 <h2>Conclusion</h2>
 
-<p>It almost feels uneasy to talk so fervently about something. Anyway, if you&rsquo;re minimalistic, care enough about your tools, and live off a computer then you should equip yourself with a solid 60% mechanical keyboard.</p>
+<p>It almost feels uneasy to talk so fervently about something. Anyway, if you love minimalism, care enough about your tools, and live off a computer then you should equip yourself with a solid 60% mechanical keyboard.</p>
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/x4lIXsPQC-/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Friends&#39; #mechanicalkeyboard</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by @kailunwu on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-01-15T18:07:15+00:00">Jan 15, 2015 at 10:07am PST</time></p></div></blockquote>
 
