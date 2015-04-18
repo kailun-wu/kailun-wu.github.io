@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://kailun-wu.github.io/sitemap.xml 
