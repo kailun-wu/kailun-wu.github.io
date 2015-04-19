@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Minimaluminiumalism]]></title>
+  <link href="http://kailun-wu.github.io/atom.xml" rel="self"/>
+  <link href="http://kailun-wu.github.io/"/>
+  <updated>2015-04-14T16:45:04-04:00</updated>
+  <id>http://kailun-wu.github.io/</id>
+  <author>
+    <name><![CDATA[Kailun Wu]]></name>
+    
+  </author>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Some of My UI Prototypes Using Sketch 3]]></title>
+    <link href="http://kailun-wu.github.io/blog/ui/"/>
+    <updated>2015-02-27T17:06:10-05:00</updated>
+    <id>http://kailun-wu.github.io/blog/ui</id>
+    <content type="html"><![CDATA[<p>These are the UI design that I&rsquo;ve done while playing with <a href="http://bohemiancoding.com/sketch/">Sketch 3</a> - fantastic design app by the way. Most of the techniques are learned from the nice tutorials on <a href="http://bohemiancoding.com/sketch/">Design + Code</a>.</p>
+
+<p><img src="http://kailun.me/images/InstagramMac1.png" alt="image" />
+The idea behind Instagram for Mac is that there should be a much simpler Instagram client on the desktop. The current selection of apps are burdened heavily with features and controls, while the photos are thereby not prominent. This UI prototype places photos upfront and edge-to-edge, hiding unnecessary controls to focus simply on browsing. Yosemite-style translucent background provides a visual clue: the photos are seemingly on a blurred glass.</p>
+
+<p><img src="http://kailun.me/images/InstagramMac2.png" alt="image" />
+Showing Comments and Profile.</p>
+
+<p><img src="http://kailun.me/images/WeightAppPage.png" alt="image" />
+The Weight app (currently under development) wants to be your fastest way to log weight as an alternative to other comprehensive health apps. The idea workflow is glancing at your history in the Notification Center widget or recording new weight in the app or on the Apple Watch within seconds. Since the difference between your weight on each day are usually small, less than 3 seconds should be taken to adjust your last day&rsquo;s weight to your new one. Data is stored to your iCloud account using HeathKit API and can be seen in the Health app, which can also log weight but in a much clunky way.</p>
+
+<p><img src="http://kailun.me/images/TrendingNow.png" alt="image" />
+A shabby reading app design for my friend while he was in a programming contest. Sorry about the barely visible thin font.</p>
+
+<p><img src="http://kailun.me/images/thinkplayMac.png" alt="image" />
+Another design showing the Cocoa version of Thinkplay. The app is currently built with Java Swing, a part of which I developed.</p>
+
+<p>Still these UI are far from being thoroughly thought about and tested. The <a href="http://www.christenseninstitute.org/key-concepts/jobs-to-be-done/">jobs-to-be-done</a><sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> of each product need to be discussed further when making design decisions. Hopefully during this year some of them can be implemented.</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p><a href="http://5by5.tv/criticalpath/134">The Critical Path podcast episode #134: Chief Jobs Officer</a>: this episode of Horace Dediu&rsquo;s podcast is so spot on.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[KBC Poker II Review and Key Remapping Guide]]></title>
+    <link href="http://kailun-wu.github.io/blog/poker-ii-review/"/>
+    <updated>2015-02-25T00:00:15-05:00</updated>
+    <id>http://kailun-wu.github.io/blog/poker-ii-review</id>
+    <content type="html"><![CDATA[<p>Here we talk about a mechanical keyboard that I&rsquo;ve been using for half a year. In short it&rsquo;s an efficient, enjoyable and easy-to-customize small keyboard. And it works remarkably well in my working setup where a display is connected to a closed-lid laptop.</p>
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/0I_McAPQOA/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Still a desktop setup can&#39;t be beaten by even the greatest laptops when it comes to productivity and ergonomics. #mechanicalkeyboard#Minimaluminiumalism</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Minimaluminiumalism (@kailunwu) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-03-12T20:05:38+00:00">Mar 12, 2015 at 1:05pm PDT</time></p></div></blockquote>
+
+
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+
+<p><br></p>
+
+<h2>Why Poker II?</h2>
+
+<p>The reason is that I almost buy everything as small as it should be. (Small is a virtue!) Be it skateboard, laptop, phone or camera. Plus, KBC Poker I was the first mechanical keyboard I&rsquo;ve seen since the 90&rsquo;s. A programmer in Chengdu introduce his Poker I to me 2 years ago. So when it came down to pair my external display with one of the <a href="http://cpkey.com/keyboards/">compact keyboards</a> listed below, I chose a black Poker II with Cherry MX Red switches.</p>
+
+<table>
+<thead>
+<tr>
+<th style="text-align:left;">Model         </th>
+<th style="text-align:right;"> Price </th>
+<th style="text-align:right;"> Layout       </th>
+<th style="text-align:right;"> Keycap      </th>
+<th style="text-align:right;"> Switches         </th>
+<th style="text-align:right;"> Notes            </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">HHKB Pro 2    </td>
+<td style="text-align:right;"> $220  </td>
+<td style="text-align:right;"> non-standard </td>
+<td style="text-align:right;"> PBT         </td>
+<td style="text-align:right;"> Topre            </td>
+<td style="text-align:right;"> Retro, pro-Unix  </td>
+</tr>
+<tr>
+<td style="text-align:left;">KBC Poker II  </td>
+<td style="text-align:right;"> $110  </td>
+<td style="text-align:right;"> standard     </td>
+<td style="text-align:right;"> thick PBT   </td>
+<td style="text-align:right;"> Cherry MX        </td>
+<td style="text-align:right;"> Well-rounded     </td>
+</tr>
+<tr>
+<td style="text-align:left;">Leopold FC660 </td>
+<td style="text-align:right;"> $120  </td>
+<td style="text-align:right;"> non-standard </td>
+<td style="text-align:right;"> dye-sub PBT </td>
+<td style="text-align:right;"> Topre/Cherry MX  </td>
+<td style="text-align:right;"> Has arrow keys   </td>
+</tr>
+<tr>
+<td style="text-align:left;">GeekHack GH60 </td>
+<td style="text-align:right;"> $113  </td>
+<td style="text-align:right;"> (non)standard</td>
+<td style="text-align:right;"> ABS         </td>
+<td style="text-align:right;"> Cherry MX        </td>
+<td style="text-align:right;"> Multiple layouts </td>
+</tr>
+<tr>
+<td style="text-align:left;">KBT Race II   </td>
+<td style="text-align:right;"> $130  </td>
+<td style="text-align:right;"> non-standard </td>
+<td style="text-align:right;"> ABS         </td>
+<td style="text-align:right;"> Cherry MX        </td>
+<td style="text-align:right;"> Actually 75 keys </td>
+</tr>
+<tr>
+<td style="text-align:left;">KBP V60 Mini  </td>
+<td style="text-align:right;"> $90   </td>
+<td style="text-align:right;"> standard     </td>
+<td style="text-align:right;"> ABS         </td>
+<td style="text-align:right;"> Matias/Cherry MX </td>
+<td style="text-align:right;"> Quiet, lighting  </td>
+</tr>
+<tr>
+<td style="text-align:left;">Keycool 84    </td>
+<td style="text-align:right;"> $110  </td>
+<td style="text-align:right;"> non-standard </td>
+<td style="text-align:right;"> PBT         </td>
+<td style="text-align:right;"> Cherry MX        </td>
+<td style="text-align:right;"> Actually 84 keys </td>
+</tr>
+</tbody>
+</table>
+
+
+<p>If you&rsquo;re confused by the naming of Vortex/KBC/KBT/KBP, Key Chatter has <a href="http://www.keychatter.com/2015/02/10/vortex-vs-kbt-vs-kbc-vs-kbp-what-are-the-differences/">explained</a> it all. If you want a keyboard that lasts and can be easily customized, a standard US/ISO layout and Cherry MX switches are most common, supported by nearly every custom keycap set and aluminum case. For video review on Poker II, you can also check out the excellent <a href="https://rhinofeed.com/poker-ii-review/">Rhinofeed</a>.</p>
+
+<h2>Drawbacks</h2>
+
+<p>Keycaps: The characters seem to be laser etched and the <code>"W A S D"</code> have already been worn out slightly.</p>
+
+<p>Stabilizer: The <a href="http://www.reddit.com/r/MechanicalKeyboards/wiki/modifications">Cherry stabilizer</a> on mine sounds loose when pressed but another Poker II of my girlfriend sounds quite robust. Maybe I should lube mine.</p>
+
+<h2>Simple Remapping Guide for Fast Arrow Keys</h2>
+
+<p>Since there&rsquo;re no arrow keys on a Poker II, you need to press <code>Fn + W|A|S|D</code> by default. So here&rsquo;s my remapping guide on a Mac, turning the <code>CapsLock</code> into a 2nd <code>Fn</code> to make it even quicker than before:</p>
+
+<ol>
+<li>On your Mac, open System Preferences / Keyboard / Modifier Keys / Poker II, swap <code>Option</code> with <code>Command</code>. Leave the window open.</li>
+<li>On the back of the keyboard, turn on switch 3 and 1.</li>
+<li>On your Mac, on the same System Preferences page, change <code>CapsLock</code> to <code>Option</code>. Done!</li>
+</ol>
+
+
+<p>From now on, <code>CapsLock + W|A|S|D</code> will be <code>"↑|↓|←|→"</code> on this computer. <code>CapsLock + 1|2</code> will adjust the screen brightness as well.</p>
+
+<p>Actually, the lack of dedicated <code>↑ ↓ ← →</code> on a 60% keyboard might in turn make you type them even faster. Just see how quick it is to press <code>CapsLock + W|A|S|D</code>. That&rsquo;s way shorter than moving your right hand back and forth between <code>"J K L ;</code> and <code>↑ ↓ ← →</code> on a bigger keyboard. If you think the effort it saves outweigh the extra press on <code>CapsLock</code>, then 60% keyboards suit you better than the 84-key or 104-key ones.</p>
+
+<h2>Keycap Style Guide</h2>
+
+<p>A keyboard is a tool in front of you 24/7 so leaving the keycaps too blank or too flashy will soon be boring. The palettes are at best when most keys are close to black &amp; white and very few modifiers have other colors as highlight.</p>
+
+<p>Overall there&rsquo;re &ldquo;horizontal&rdquo; layouts like <a href="http://keypuller.com/skull-squadron/">Skull Squadron key set</a>, and &ldquo;trapezoid&rdquo; layout like <a href="http://keypuller.com/bi-color-pbt-double-shot-by-vortex/">Vortex DoubleShot PBT key set</a>.</p>
+
+<p>Another choice is between blank and printed keycaps. For me blank keycaps are a little too boring after a while and are hard to type numbers and symbols on.</p>
+
+<p>The thickness of the keycap is also critical to the typing sound. WASD Keyboard and Signature Plastic provide some of the most unique but thin keycaps that sound just too weak. Vortex, IMSTRO and GMK usually offers thick PBT keycaps, especially the even thicker stock keycaps on KBC Poker II (backlight version is thin though).</p>
+
+<p>At last you could choose profile of the keycaps, including the rare roundish <a href="http://keypuller.com/profile/sa/">RA</a> and <a href="http://keypuller.com/profile/dsa/">DSA</a>, and the usual DCS. For DCS, there&rsquo;re OEM profile and the sharper and shorter Cherry profile, which looks better than the former.</p>
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/0InsdyPQGV/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">An unibody aluminum case is just a remarkable upgrade in aesthetics and typing. Also glad to hear that KBC Poker III will come with a stock metal case. #Minimaluminiumalism#mechanicalkeyboard</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Minimaluminiumalism (@kailunwu) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-03-12T16:40:18+00:00">Mar 12, 2015 at 9:40am PDT</time></p></div></blockquote>
+
+
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+
+<p><br></p>
+
+<h2>Conclusion</h2>
+
+<p>It almost feels uneasy to talk so fervently about something. Anyway, if you love minimalism, care enough about your tools, and live off a computer then you should equip yourself with a solid 60% mechanical keyboard.</p>
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/x4lIXsPQC-/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Friends&#39; #mechanicalkeyboard</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by @kailunwu on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-01-15T18:07:15+00:00">Jan 15, 2015 at 10:07am PST</time></p></div></blockquote>
+
+
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[RiskCalc: My Very First Mac App]]></title>
+    <link href="http://kailun-wu.github.io/blog/riskcalc-my-very-first-mac-app/"/>
+    <updated>2015-01-02T23:35:50-05:00</updated>
+    <id>http://kailun-wu.github.io/blog/riskcalc-my-very-first-mac-app</id>
+    <content type="html"><![CDATA[<p><img src="http://kailun-wu.github.io/images/RiskCalcScreenshot.png"></p>
+
+<p style="text-align:center;"> <a href="https://github.com/kailun-wu/kailun-wu.github.io/blob/master/assets/RiskCalc.app.zip?raw=true"><img src="http://kailun-wu.github.io/images/RiskCalcIcon.png" width="70" height="70"></a></p>
+
+<p style="text-align:center;"> <a href="https://github.com/kailun-wu/kailun-wu.github.io/blob/master/assets/RiskCalc.app.zip?raw=true">Download RiskCalc v0.5 for Yosemite</a></p>
+
+<p>RiskCalc is a risk management app that quickly calculate VaR, LGD, histogram and hedge for a portfolio of securities. It&rsquo;s my final project for the <a href="http://cs.nyu.edu/courses/fall14/CSCI-GA.2180-001/">Financial Software</a> course at NYU and also my first ever Cocoa app.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Thoughts on HealthKit - Not Really]]></title>
+    <link href="http://kailun-wu.github.io/blog/thoughts-on-healthkit-not-really/"/>
+    <updated>2014-10-12T01:38:31-04:00</updated>
+    <id>http://kailun-wu.github.io/blog/thoughts-on-healthkit-not-really</id>
+    <content type="html"><![CDATA[<p>Watching <a href="https://developer.apple.com/videos/wwdc/2014/?id=203">a WWDC session video</a> on HealthKit, I&rsquo;m more than sure that leading technology companies won&rsquo;t be born in China or India, unless they&rsquo;ve mastered how to design great OS, frameworks, and even hardware-software integration.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> It&rsquo;s because in the end, users are using services in apps on OSes. Without the support from the OS and APIs, nowhere can innovation of apps, services and peripherals take roots. Apple is wielding so much power because they own most of the stuff they need. For example, how health data is saved and used on the iPhone is <a href="https://developer.apple.com/app-store/review/guidelines/#healthkit">defined in HealthKit</a> by Apple, rather than by Jawbone or data miners.</p>
+
+<p>Right now, major OSes are owned by American companies and the key people involved are in America. All other attempts like BB 10, WebOS and MeeGo are largely failed. Building another OS is hard, because it depends on too much: timing, OS, developers, users and hardware.</p>
+
+<p>Though hardware have been evolving much faster than software, it&rsquo;s possible that content, internet services and cloud will outweigh OS and devices. Maybe OS will be what we take for granted and radical innovation doesn&rsquo;t require much from the underlying layer.<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> Maybe the value and money will move towards being OS-agnostic, as is seen in Google, Facebook, and online advertisement. And that&rsquo;s why Amazon phone is not a necessity for Amazon itself. For now our world of devices and services is not a zero-sum game, but future awaits to be seen.</p>
+
+<p>So much for the mumble. Showing opinions on the internet is cheap. I should resume the video now. :S</p>
+
+<p>[update] The good news is Android already provide a good enought OS for anyone to customize. Among the hardware manufactures that are trying hard to differentiate their flavour of Android, Xiaomi is closest to Apple: after years of iterations and community feedback MIUI is highly polished and loaded with local services; Xiaomi produces peripherals that works with MIUI, including TV, routers and even air purifiers, which Apple would hesitate or never make.</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>The city of Shenzhen becomes more and more interesting as a hardware heaven. See <a href="http://www.economist.com/news/special-report/21593590-why-southern-china-best-place-world-hardware-innovator-be-hacking">Hacking Shenzhen</a> from The Economist.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<li id="fn:2">
+<p>It&rsquo;s amazing how much layers of abstraction we&rsquo;ve made: from transistors to bits to softwares to ecosystems. Kevin Kelly&rsquo;s description on life and evolution is manifested in the world of bits again: autonomous entities form groups, abstraction emerges from groups, abstractions on top of abstractions.<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome New Family Member: Muji!]]></title>
+    <link href="http://kailun-wu.github.io/blog/new-family-member-muji/"/>
+    <updated>2014-09-27T10:59:29-04:00</updated>
+    <id>http://kailun-wu.github.io/blog/new-family-member-muji</id>
+    <content type="html"><![CDATA[<p>Here&rsquo;s our new family member, a six-month old cat Muji. Damn she&rsquo;s so naughty!</p>
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/xUaSawPQBx/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">This is for ya!</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by @kailunwu on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-01-01T16:59:51+00:00">Jan 1, 2015 at 8:59am PST</time></p></div></blockquote>
+
+
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+
+<p><br></p>
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/uYVOmjvQHr/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Gaze</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by @kailunwu on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2014-10-20T15:58:25+00:00">Oct 20, 2014 at 8:58am PDT</time></p></div></blockquote>
+
+
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+
+<p><br></p>
+
+<p>My girlfriend and I had two cats back when we&rsquo;re in Chengdu. This time we went to the <a href="https://www.arlboston.org">Animal Rescue League of Boston</a> for adoption. They&rsquo;ve got a nice place in town.</p>
+
+<p>Every adoption for me is a pretty severe trade-off: home is so safe that cats become dormant. When you look at young cats like Muji, every part of their body and every move they make is meant to hunt. I wish she could grow up in the wild, be strong and clever about surviving. That&rsquo;s what our last cat <a href="http://instagram.com/p/Zkx_4nPQGd/">Edward</a> was like. She&rsquo;s always been living on the street unless she&rsquo;s giving birth to kittens at my girlfriend&rsquo;s. But on the other hand she would bring bugs home or get pregnant too frequently<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> so eventually we had to put her for adoption.</p>
+
+<p>So far Muji is most adorable and planning biting my hands at all times. She&rsquo;s also into cursor and code, making it a wonderful pair programming.</p>
+
+<p>Wish she be happy and healthy in the following years. We&rsquo;ll stay together! ☺</p>
+
+<p>[update] She&rsquo;s one year old now and super friendly to us. Why she is no longer aggressive as she was in the first few weeks is probably because I learned cats&#8217; way of interaction and changed my manner accordingly. I rarely stare at her and know the meaning of her facial expression. In order to be more responsible my girlfriend even read <a href="http://www.amazon.com/gp/product/0517880539/ref=oh_aui_detailpage_o06_s00?ie=UTF8&amp;psc=1"><em>Cat Watching: Why cat purr and other feline mysteries explained</em></a>.</p>
+
+<p>The staggering thing I learned during these months is how ignorant most humans are about their pets. In short, cats don&rsquo;t look at the world as we do, don&rsquo;t treat others as we do. Yet instead of learning their inherent habbit in the first place we hope they&rsquo;d behave as we imagine.</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Although her <a href="http://instagram.com/p/UrFr-8vQDM/">kittens</a> are immensely funny, giving birth to eleven kittens cost huge amount of energy and nutrients from Edward. The basic assumptions people have are usually way off.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Final Decision We Must Make]]></title>
+    <link href="http://kailun-wu.github.io/blog/the-final-decision-we-must-make/"/>
+    <updated>2014-09-14T17:00:33-04:00</updated>
+    <id>http://kailun-wu.github.io/blog/the-final-decision-we-must-make</id>
+    <content type="html"><![CDATA[<p>It&rsquo;s about <a href="http://www.amazon.com/dp/0226771253/ref=cm_sw_r_fa_dp_WNVttb0J9QV1P">The Robot&rsquo;s Rebellion: Finding Meaning in the Age of Darwin</a>, a book I haven&rsquo;t yet read. I found the  description astounding:</p>
+
+<blockquote><p>The idea that we might be robots is no longer the stuff of science fiction; decades of research in evolutionary biology and cognitive science have led many esteemed scientists to the conclusion that, according to the precepts of universal Darwinism, humans are merely the hosts for two replicators (genes and memes) that have no interest in us except as conduits for replication. Richard Dawkins, for example, jolted us into realizing that we are just survival mechanisms for our own genes, sophisticated robots in service of huge colonies of replicators to whom concepts of rationality, intelligence, agency, and even the human soul are irrelevant.</p>
+
+<p>Accepting and now forcefully responding to this decentering and disturbing idea, Keith Stanovich here provides the tools for the &ldquo;robot&rsquo;s rebellion,&rdquo; a program of cognitive reform necessary to advance human interests over the limited interest of the replicators and define our own autonomous goals as individual human beings. He shows how concepts of rational thinking from cognitive science interact with the logic of evolution to create opportunities for humans to structure their behavior to serve their own ends. These evaluative activities of the brain, he argues, fulfill the need that we have to ascribe significance to human life.</p>
+
+<p>We may well be robots, but we are the only robots who have discovered that fact. Only by recognizing ourselves as such, argues Stanovich, can we begin to construct a concept of self based on what is truly singular about humans: that they gain control of their lives in a way unique among life forms on Earth—through rational self-determination.</p></blockquote>
+
+<p>A stark contrast to what&rsquo;s written in the fictional <a href="http://ftp.blizzard.com/pub/misc/StarCraft.PDF">StarCraft I Terran history</a>:</p>
+
+<blockquote><p>As the manipulative sciences of cybernetics, cloning and gene-splicing rose steadily into the public forum, militant humanist and hard-line religious groups challenged the rights of private interest corporations who profited from genetic experimentation. Multitudes of people were being augmented with cybernetic implants while others began to manifest slight physical mutations ranging from heightened senses to advanced telepathy. These dramatic changes within the human gene pool caused widespread panic amongst many of the fundamental humanist factions. (&hellip;)</p>
+
+<p>Although religions were officially banned by the UPL, the organization held an almost zealous belief in the supposed ‘divinity of mankind’. This quasi-religious dogma called for the immediate eradication of any non-vital prosthetics or mutations amongst the pure-strain human gene pool. Hard-line UPL proponents and scholars argued that genetic alteration, cyber technology, and the use of psychoactive drugs all led to the eventual degeneration of the human species. The UPL leaders formulated a bold plan that would assure that humanity would persevere, unscathed by the tempting corruption of radical technologies.</p>
+
+<p>Like the bloody Inquisitions that devastated Europe eight hundred years before, the UPL set in motion one of the harshest agendas ever conceived by humanity: Project Purification. This genocidal crusade was the Government’s final solution to the matter of cleansing humanity of its more degenerate facets. UPL troops scoured every nation on earth, rounding up dissidents, hackers, synthetics, the cybernetically enhanced, tech-pirates, and criminals of every kind. This planet-wide culling resulted in the eradication of nearly 400,000,000 people.</p></blockquote>
+
+<p>We will eventually figure this out: are we enduring a gene serfdom? If yes, should we modify us to gain self-determination?</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[September 2014 Apple Keynote Take-on]]></title>
+    <link href="http://kailun-wu.github.io/blog/sept-2013-apple-keynote-take-on/"/>
+    <updated>2014-09-11T12:35:29-04:00</updated>
+    <id>http://kailun-wu.github.io/blog/sept-2013-apple-keynote-take-on</id>
+    <content type="html"><![CDATA[<p>I&rsquo;m sad to know the absence of new 4-inch models. Where&rsquo;re the 4-inch iPhones for the rest of us? The stasis on screen size during the 4-inch era and the sudden transition to 4.7-inch and 5.5-inch are not the optimal roadmap, unless Apple are quite confident about the mainstream adoption of 4.7-inch this time. Anyway, people who love 4-inch should be able to get a top-notch iPhone every year, right?</p>
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/vJXAjSPQDo/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">不能忍，iPhone 6 太大太丑怎么办，索尼大法？ Dear Apple, iPhone 6 is so fucked up and huge that I don&#39;t know what else to use.</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by @kailunwu on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2014-11-08T16:56:46+00:00">Nov 8, 2014 at 8:56am PST</time></p></div></blockquote>
+
+
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+
+<p><br>
+On the watch: fundamentally, why do I have to bear with the complexity of managing yet another device? <a href="http://stratechery.com/2014/apple-watch-asking-saying/">The lack of explaining</a> on why it needs to exist made the keynote less compelling.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> Tim Cook never talk about the incentives and human factors as much <a href="http://longform.org/stories/playboy-interview-steve-jobs">as Steve did</a> because liberal arts seem not so innate to Tim.</p>
+
+<p>Apple is more capable of developing system and applications now.<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> This is more evident on the new watch. The original iPhone and iPad came with limited features, and the delay of OS X Leopard was caused by developing that very iPhone. But the apps and services on the watch are abundant on day one. Only the hardware definitely needs more iterations. I can&rsquo;t wait for <a href="http://www.hi-id.com/?p=2639">the iPhone-4-equivalent</a> of it because I&rsquo;m even more extreme than Braun on minimal and angular chassis.</p>
+
+<p>Seriously, Jony Ive should leave icons alone! Icons in iOS 8 are still overly saturated and arbitrary to me. The only applicable wallpapers to me on iOS are limited to dark ones because of the vibrancy of app icons. We&rsquo;ve seen Apple design went extreme and weird before returning to rational. Hopefully it&rsquo;ll happen to iOS icons as well, quickly.</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>In <a href="http://exponent.fm/episode-017-lets-end-it-there-updated/">the 17th episode</a> of Exponent, Ben Thompson said that the lack of reasoning and the massive amount of features may indicate a lack of clear sense on the watch within Apple. To consumers, too much features dilute the <em>essential</em> functions that makes the new category compelling.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<li id="fn:2">
+<p>[Update in Jan 2015] Well it turns out that, though Yosemite has been nearly flawless since its debut, iOS 8 is probably the most buggy .0 release ever.<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Mirror of Thoughts]]></title>
+    <link href="http://kailun-wu.github.io/blog/programming-thinking/"/>
+    <updated>2014-09-08T00:59:52-04:00</updated>
+    <id>http://kailun-wu.github.io/blog/programming-thinking</id>
+    <content type="html"><![CDATA[<p>Programming languages are really close to linguistics, for what we made and use will reshape us. It&rsquo;s been believed that German the language contributes to the abundance of philosophers in Germany. <sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> Steve Jobs, <a href="https://itunes.apple.com/us/movie/steve-jobs-the-lost-interview/id536749587">back in the 1995</a>:</p>
+
+<blockquote><p>We use them (programming) in the work, but much more importantly, it does nothing to do with using them for anything practical. Have to do with using them to be a mirror of your thought process, to actually learn how to think.</p>
+
+<p>I think everybody in this country should learn how to program a computer, should learn a computer language, because it teaches you how to think. It&rsquo;s like going to law school. I don&rsquo;t think everybody should be a lawyer, but I think going to law school may actually be useful coz it teaches you how to think in a certain way. In the same way the computer programming teaches you in a slightly different way how to think. So I view computer science as a liberal arts. It should be something everybody takes in a year in their life, one of the courses they take is learning how to program.</p></blockquote>
+
+<p>Interesting to see how this correlates with <a href="https://www.youtube.com/watch?v=7Pq-S557XQU">&ldquo;Human needs not apply&rdquo;</a>.</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Curiously, ancient Chinese doesn&rsquo;t contain the word &ldquo;is/are/be/etc&rdquo; and “是” is only a recent creation.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Low GI Diet]]></title>
+    <link href="http://kailun-wu.github.io/blog/low-GI-diet/"/>
+    <updated>2014-09-01T17:45:13-04:00</updated>
+    <id>http://kailun-wu.github.io/blog/low-GI-diet</id>
+    <content type="html"><![CDATA[<p>I dropped 8 kg this summer (64 kg now) by <a href="http://en.wikipedia.org/wiki/Atkins_diet">Atkins diet</a> and running. The basic idea is quit eating starch to force myself into consuming body fat while using a scale to keep me motivated. I saw this worked on a college roommate two years ago and decided to take some effort to control my own body this time.</p>
+
+<p>Is it painful? Yes, I was literally starving like never before! It&rsquo;s only after one week did I become used to that state and cannot feel too hungry. At some point I even felt clean, comfortable and not demanding. Eating less also made me appreciate the food more and save time on cooking.</p>
+
+<p>You can find recipes and debates on Atkins diet online so I&rsquo;m not going to replicate anything. What&rsquo;s worth saying are the nicest foods I discovered that keep you full while having low calories and low GI<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>.</p>
+
+<ul>
+<li><p>Papaya: what a gift! Cut it into two half, clean the seeds and eat it with a spoon. Unbelievably easy and satisfying.</p></li>
+<li><p>Strawberries: one box is enough for dinner, too acid sometimes, easy to get bored. Same goes for kiwifood.</p></li>
+<li><p>Steamed pumpkin: has relatively high GI but satisfying nonetheless.</p></li>
+<li><p>Miso soup: fast and delicious enough. Boil: peeled tomatoes, miso paste, sesame oil, diced tofu. Optional: shredded Napa cabbage, diced low-calorie ham, seaweed, shrimp. Topped with minced scallion after boiling.</p></li>
+<li><p>Starbucks Green Tea Frappuccino w/ cream and w/o sugar: Fantastic! Diet drinks doesn&rsquo;t have to suck.</p></li>
+<li><p>Any stir-fries are edible as long as no sugar is added. Shredded pork with green pepper is one of <a href="http://www.xiachufang.com/cook/100963158/cooked/">my best practiced Sichuan recipes</a>.</p></li>
+<li><p>Salad with low-calorie dressing and without corns or bread was my choice of meal. But it&rsquo;s cold, acid and harsh so you don&rsquo;t want it too often.</p></li>
+</ul>
+
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Low <a href="http://en.wikipedia.org/wiki/Glycemic_index">GI</a> diet is essential to keep you consuming body fat.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Thoughts on Mechanical Keyboards]]></title>
+    <link href="http://kailun-wu.github.io/blog/thoughts-on-mechanical-keyboard/"/>
+    <updated>2014-08-25T01:48:57-04:00</updated>
+    <id>http://kailun-wu.github.io/blog/thoughts-on-mechanical-keyboard</id>
+    <content type="html"><![CDATA[<p>I&rsquo;m fond of <a href="http://www.douban.com/photos/album/134718709/">mechanical keyboards</a> now, which is a surprise to people including myself. To most, those keyboards are relics from the 80s. Everyone now uses a laptop with built-in chiclet keys and a phone with touch keyboard. No one need a dedicated one, period.</p>
+
+<p>But it feels so good. Seldom do I see a product perfectly balancing productivity, design, build quality and personality. Dieter Rams&#8217; 10 principles of good design totally applies here.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> In a very sensible way it&rsquo;s superior to laptop keyboard in every aspect except in size. After all, keyboards have come a long way and the manufacturing process are mature. If &ldquo;personal computer is like bicycle for the mind&rdquo;<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>, then mechanical keyboard makes bicycles better.</p>
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/x4lIXsPQC-/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Friends&#39; #mechanicalkeyboard</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by @kailunwu on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-01-15T18:07:15+00:00">Jan 15, 2015 at 10:07am PST</time></p></div></blockquote>
+
+
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+
+<p><br>
+But is mechanical keyboard barely surviving? Is it like nascent personal computers in the 70s, or is it like DSLR cameras today? I&rsquo;ve been thinking about these questions and how it&rsquo;s possible to popularize mechanical keyboards. Without any market research data, I can only draw conclusion from observation.</p>
+
+<p>Personal computing in the 70s are used by pros and has a high price. There&rsquo;re booming brands but more PCs are DIY-ed than integrated. You can&rsquo;t buy what you want and may not realize what you what. Mechanical keyboards today are precisely the same.</p>
+
+<p>Cameras today are being replaced by the best cameras - the ones on your phone with you all day. Granted, phone cameras are <a href="http://www.theverge.com/2014/8/22/6055591/iphone-vs-pro-camera">shittier</a> and professional cameras are still going to be around. But the fact that most people are served by smartphones will erase the need for consumer cameras. Mechanical keyboards today are precisely the same.</p>
+
+<p>My tendency is that keyboard are like cameras. Usually a product would go through different phases in their life. PCs and cameras has gone through all of them: enthusiast phase, professional phase and consumer phase. So do keyboards. Ideally the user base would swell with consumers. But before it becomes mass market the desktop computers themselves were largely replaced by laptops, rendering the consumer portion of mechanical keyboards miniscule. Like game console, which became more advanced and pricier historically and is ceding casual gaming to PCs and smartphones, mechanical keyboard continues to be refined.<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup> But it lacks stellar new features and don&rsquo;t have popular brands like Beats. So popularizing mechanical keyboard depends on the total user base of personal computing, the percentage of enthusiasts and professionals in that user base, and innovation in design/marketing. Beats enjoys healthy profits from headsets and Sony sells PlayStation 4 faster than they could understand. Likely we can see the same happened to mechanical keyboards as more people on Earth have access to their first computing devices and more people discover the desire for better experience.</p>
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/r6Hp8tPQI-/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">机械键盘究竟是像70年代的个人电脑，还是像当今的相机呢？#mechanicalkeyboard #poker2 #cherrymxred</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by @kailunwu on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2014-08-20T05:19:49+00:00">Aug 19, 2014 at 10:19pm PDT</time></p></div></blockquote>
+
+
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+
+<p><br>
+Show people the story of how mechanical keyboard can bring them individuality, productivity, ergonomics and creativity. Let them hit keycaps in person. Let them know how long keyboards last. Game junkies, software engineers and designers would be on board but bold design is needed to win average consumers. WASD Keyboards has brought us real keycap customization and HHKB/KBC sells minimalism. New ideas and parts discussed on GeekHack and Deskthority can also be adopted.</p>
+
+<p>People have jobs to be done and if some companies can provide a radical solution and fix the broken status of mechanical keyboard, everyone is doing better.</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p><a href="http://www.douban.com/note/77176672/">Said Dieter Rams</a>: &ldquo;Good design is innovative. Good design makes a product useful. Good design is aesthetic. Good design is unobtrusive. Good design makes a product understandable. Good design is honest. Good design is long-lasting. Good design is environmentally-friendly. Good design is as little design as possible. Good design is thorough, down to the last detail.&rdquo; <a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<li id="fn:2">
+<p><a href="https://www.youtube.com/watch?v=ob_GX50Za6c">Said Steve Jobs</a>, which resonates with me because I appreciate the idea of technology augmenting human, other than <a href="http://www.theverge.com/2014/6/24/5835708/google-x-labs-artificial-intelligence-elon-musk-terminator">mimicking</a> human.<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+<li id="fn:3">
+<p>Ben Thompson&rsquo;s excellent new <a href="http://stratechery.com/2014/games-good-enough/">piece</a> about game consoles is on Stratechery, my daily read.<a href="#fnref:3" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
+  
+</feed>

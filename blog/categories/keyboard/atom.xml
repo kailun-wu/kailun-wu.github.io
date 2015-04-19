@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: keyboard | Minimaluminiumalism]]></title>
+  <link href="http://kailun-wu.github.io/blog/categories/keyboard/atom.xml" rel="self"/>
+  <link href="http://kailun-wu.github.io/"/>
+  <updated>2015-04-14T16:45:04-04:00</updated>
+  <id>http://kailun-wu.github.io/</id>
+  <author>
+    <name><![CDATA[Kailun Wu]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[KBC Poker II Review and Key Remapping Guide]]></title>
+    <link href="http://kailun-wu.github.io/blog/poker-ii-review/"/>
+    <updated>2015-02-25T00:00:15-05:00</updated>
+    <id>http://kailun-wu.github.io/blog/poker-ii-review</id>
+    <content type="html"><![CDATA[<p>Here we talk about a mechanical keyboard that I&rsquo;ve been using for half a year. In short it&rsquo;s an efficient, enjoyable and easy-to-customize small keyboard. And it works remarkably well in my working setup where a display is connected to a closed-lid laptop.</p>
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/0I_McAPQOA/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Still a desktop setup can&#39;t be beaten by even the greatest laptops when it comes to productivity and ergonomics. #mechanicalkeyboard#Minimaluminiumalism</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Minimaluminiumalism (@kailunwu) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-03-12T20:05:38+00:00">Mar 12, 2015 at 1:05pm PDT</time></p></div></blockquote>
+
+
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+
+<p><br></p>
+
+<h2>Why Poker II?</h2>
+
+<p>The reason is that I almost buy everything as small as it should be. (Small is a virtue!) Be it skateboard, laptop, phone or camera. Plus, KBC Poker I was the first mechanical keyboard I&rsquo;ve seen since the 90&rsquo;s. A programmer in Chengdu introduce his Poker I to me 2 years ago. So when it came down to pair my external display with one of the <a href="http://cpkey.com/keyboards/">compact keyboards</a> listed below, I chose a black Poker II with Cherry MX Red switches.</p>
+
+<table>
+<thead>
+<tr>
+<th style="text-align:left;">Model         </th>
+<th style="text-align:right;"> Price </th>
+<th style="text-align:right;"> Layout       </th>
+<th style="text-align:right;"> Keycap      </th>
+<th style="text-align:right;"> Switches         </th>
+<th style="text-align:right;"> Notes            </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">HHKB Pro 2    </td>
+<td style="text-align:right;"> $220  </td>
+<td style="text-align:right;"> non-standard </td>
+<td style="text-align:right;"> PBT         </td>
+<td style="text-align:right;"> Topre            </td>
+<td style="text-align:right;"> Retro, pro-Unix  </td>
+</tr>
+<tr>
+<td style="text-align:left;">KBC Poker II  </td>
+<td style="text-align:right;"> $110  </td>
+<td style="text-align:right;"> standard     </td>
+<td style="text-align:right;"> thick PBT   </td>
+<td style="text-align:right;"> Cherry MX        </td>
+<td style="text-align:right;"> Well-rounded     </td>
+</tr>
+<tr>
+<td style="text-align:left;">Leopold FC660 </td>
+<td style="text-align:right;"> $120  </td>
+<td style="text-align:right;"> non-standard </td>
+<td style="text-align:right;"> dye-sub PBT </td>
+<td style="text-align:right;"> Topre/Cherry MX  </td>
+<td style="text-align:right;"> Has arrow keys   </td>
+</tr>
+<tr>
+<td style="text-align:left;">GeekHack GH60 </td>
+<td style="text-align:right;"> $113  </td>
+<td style="text-align:right;"> (non)standard</td>
+<td style="text-align:right;"> ABS         </td>
+<td style="text-align:right;"> Cherry MX        </td>
+<td style="text-align:right;"> Multiple layouts </td>
+</tr>
+<tr>
+<td style="text-align:left;">KBT Race II   </td>
+<td style="text-align:right;"> $130  </td>
+<td style="text-align:right;"> non-standard </td>
+<td style="text-align:right;"> ABS         </td>
+<td style="text-align:right;"> Cherry MX        </td>
+<td style="text-align:right;"> Actually 75 keys </td>
+</tr>
+<tr>
+<td style="text-align:left;">KBP V60 Mini  </td>
+<td style="text-align:right;"> $90   </td>
+<td style="text-align:right;"> standard     </td>
+<td style="text-align:right;"> ABS         </td>
+<td style="text-align:right;"> Matias/Cherry MX </td>
+<td style="text-align:right;"> Quiet, lighting  </td>
+</tr>
+<tr>
+<td style="text-align:left;">Keycool 84    </td>
+<td style="text-align:right;"> $110  </td>
+<td style="text-align:right;"> non-standard </td>
+<td style="text-align:right;"> PBT         </td>
+<td style="text-align:right;"> Cherry MX        </td>
+<td style="text-align:right;"> Actually 84 keys </td>
+</tr>
+</tbody>
+</table>
+
+
+<p>If you&rsquo;re confused by the naming of Vortex/KBC/KBT/KBP, Key Chatter has <a href="http://www.keychatter.com/2015/02/10/vortex-vs-kbt-vs-kbc-vs-kbp-what-are-the-differences/">explained</a> it all. If you want a keyboard that lasts and can be easily customized, a standard US/ISO layout and Cherry MX switches are most common, supported by nearly every custom keycap set and aluminum case. For video review on Poker II, you can also check out the excellent <a href="https://rhinofeed.com/poker-ii-review/">Rhinofeed</a>.</p>
+
+<h2>Drawbacks</h2>
+
+<p>Keycaps: The characters seem to be laser etched and the <code>"W A S D"</code> have already been worn out slightly.</p>
+
+<p>Stabilizer: The <a href="http://www.reddit.com/r/MechanicalKeyboards/wiki/modifications">Cherry stabilizer</a> on mine sounds loose when pressed but another Poker II of my girlfriend sounds quite robust. Maybe I should lube mine.</p>
+
+<h2>Simple Remapping Guide for Fast Arrow Keys</h2>
+
+<p>Since there&rsquo;re no arrow keys on a Poker II, you need to press <code>Fn + W|A|S|D</code> by default. So here&rsquo;s my remapping guide on a Mac, turning the <code>CapsLock</code> into a 2nd <code>Fn</code> to make it even quicker than before:</p>
+
+<ol>
+<li>On your Mac, open System Preferences / Keyboard / Modifier Keys / Poker II, swap <code>Option</code> with <code>Command</code>. Leave the window open.</li>
+<li>On the back of the keyboard, turn on switch 3 and 1.</li>
+<li>On your Mac, on the same System Preferences page, change <code>CapsLock</code> to <code>Option</code>. Done!</li>
+</ol>
+
+
+<p>From now on, <code>CapsLock + W|A|S|D</code> will be <code>"↑|↓|←|→"</code> on this computer. <code>CapsLock + 1|2</code> will adjust the screen brightness as well.</p>
+
+<p>Actually, the lack of dedicated <code>↑ ↓ ← →</code> on a 60% keyboard might in turn make you type them even faster. Just see how quick it is to press <code>CapsLock + W|A|S|D</code>. That&rsquo;s way shorter than moving your right hand back and forth between <code>"J K L ;</code> and <code>↑ ↓ ← →</code> on a bigger keyboard. If you think the effort it saves outweigh the extra press on <code>CapsLock</code>, then 60% keyboards suit you better than the 84-key or 104-key ones.</p>
+
+<h2>Keycap Style Guide</h2>
+
+<p>A keyboard is a tool in front of you 24/7 so leaving the keycaps too blank or too flashy will soon be boring. The palettes are at best when most keys are close to black &amp; white and very few modifiers have other colors as highlight.</p>
+
+<p>Overall there&rsquo;re &ldquo;horizontal&rdquo; layouts like <a href="http://keypuller.com/skull-squadron/">Skull Squadron key set</a>, and &ldquo;trapezoid&rdquo; layout like <a href="http://keypuller.com/bi-color-pbt-double-shot-by-vortex/">Vortex DoubleShot PBT key set</a>.</p>
+
+<p>Another choice is between blank and printed keycaps. For me blank keycaps are a little too boring after a while and are hard to type numbers and symbols on.</p>
+
+<p>The thickness of the keycap is also critical to the typing sound. WASD Keyboard and Signature Plastic provide some of the most unique but thin keycaps that sound just too weak. Vortex, IMSTRO and GMK usually offers thick PBT keycaps, especially the even thicker stock keycaps on KBC Poker II (backlight version is thin though).</p>
+
+<p>At last you could choose profile of the keycaps, including the rare roundish <a href="http://keypuller.com/profile/sa/">RA</a> and <a href="http://keypuller.com/profile/dsa/">DSA</a>, and the usual DCS. For DCS, there&rsquo;re OEM profile and the sharper and shorter Cherry profile, which looks better than the former.</p>
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/0InsdyPQGV/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">An unibody aluminum case is just a remarkable upgrade in aesthetics and typing. Also glad to hear that KBC Poker III will come with a stock metal case. #Minimaluminiumalism#mechanicalkeyboard</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Minimaluminiumalism (@kailunwu) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-03-12T16:40:18+00:00">Mar 12, 2015 at 9:40am PDT</time></p></div></blockquote>
+
+
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+
+<p><br></p>
+
+<h2>Conclusion</h2>
+
+<p>It almost feels uneasy to talk so fervently about something. Anyway, if you love minimalism, care enough about your tools, and live off a computer then you should equip yourself with a solid 60% mechanical keyboard.</p>
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/x4lIXsPQC-/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Friends&#39; #mechanicalkeyboard</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by @kailunwu on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-01-15T18:07:15+00:00">Jan 15, 2015 at 10:07am PST</time></p></div></blockquote>
+
+
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Thoughts on Mechanical Keyboards]]></title>
+    <link href="http://kailun-wu.github.io/blog/thoughts-on-mechanical-keyboard/"/>
+    <updated>2014-08-25T01:48:57-04:00</updated>
+    <id>http://kailun-wu.github.io/blog/thoughts-on-mechanical-keyboard</id>
+    <content type="html"><![CDATA[<p>I&rsquo;m fond of <a href="http://www.douban.com/photos/album/134718709/">mechanical keyboards</a> now, which is a surprise to people including myself. To most, those keyboards are relics from the 80s. Everyone now uses a laptop with built-in chiclet keys and a phone with touch keyboard. No one need a dedicated one, period.</p>
+
+<p>But it feels so good. Seldom do I see a product perfectly balancing productivity, design, build quality and personality. Dieter Rams&#8217; 10 principles of good design totally applies here.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> In a very sensible way it&rsquo;s superior to laptop keyboard in every aspect except in size. After all, keyboards have come a long way and the manufacturing process are mature. If &ldquo;personal computer is like bicycle for the mind&rdquo;<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>, then mechanical keyboard makes bicycles better.</p>
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/x4lIXsPQC-/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Friends&#39; #mechanicalkeyboard</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by @kailunwu on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-01-15T18:07:15+00:00">Jan 15, 2015 at 10:07am PST</time></p></div></blockquote>
+
+
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+
+<p><br>
+But is mechanical keyboard barely surviving? Is it like nascent personal computers in the 70s, or is it like DSLR cameras today? I&rsquo;ve been thinking about these questions and how it&rsquo;s possible to popularize mechanical keyboards. Without any market research data, I can only draw conclusion from observation.</p>
+
+<p>Personal computing in the 70s are used by pros and has a high price. There&rsquo;re booming brands but more PCs are DIY-ed than integrated. You can&rsquo;t buy what you want and may not realize what you what. Mechanical keyboards today are precisely the same.</p>
+
+<p>Cameras today are being replaced by the best cameras - the ones on your phone with you all day. Granted, phone cameras are <a href="http://www.theverge.com/2014/8/22/6055591/iphone-vs-pro-camera">shittier</a> and professional cameras are still going to be around. But the fact that most people are served by smartphones will erase the need for consumer cameras. Mechanical keyboards today are precisely the same.</p>
+
+<p>My tendency is that keyboard are like cameras. Usually a product would go through different phases in their life. PCs and cameras has gone through all of them: enthusiast phase, professional phase and consumer phase. So do keyboards. Ideally the user base would swell with consumers. But before it becomes mass market the desktop computers themselves were largely replaced by laptops, rendering the consumer portion of mechanical keyboards miniscule. Like game console, which became more advanced and pricier historically and is ceding casual gaming to PCs and smartphones, mechanical keyboard continues to be refined.<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup> But it lacks stellar new features and don&rsquo;t have popular brands like Beats. So popularizing mechanical keyboard depends on the total user base of personal computing, the percentage of enthusiasts and professionals in that user base, and innovation in design/marketing. Beats enjoys healthy profits from headsets and Sony sells PlayStation 4 faster than they could understand. Likely we can see the same happened to mechanical keyboards as more people on Earth have access to their first computing devices and more people discover the desire for better experience.</p>
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/r6Hp8tPQI-/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">机械键盘究竟是像70年代的个人电脑，还是像当今的相机呢？#mechanicalkeyboard #poker2 #cherrymxred</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by @kailunwu on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2014-08-20T05:19:49+00:00">Aug 19, 2014 at 10:19pm PDT</time></p></div></blockquote>
+
+
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+
+<p><br>
+Show people the story of how mechanical keyboard can bring them individuality, productivity, ergonomics and creativity. Let them hit keycaps in person. Let them know how long keyboards last. Game junkies, software engineers and designers would be on board but bold design is needed to win average consumers. WASD Keyboards has brought us real keycap customization and HHKB/KBC sells minimalism. New ideas and parts discussed on GeekHack and Deskthority can also be adopted.</p>
+
+<p>People have jobs to be done and if some companies can provide a radical solution and fix the broken status of mechanical keyboard, everyone is doing better.</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p><a href="http://www.douban.com/note/77176672/">Said Dieter Rams</a>: &ldquo;Good design is innovative. Good design makes a product useful. Good design is aesthetic. Good design is unobtrusive. Good design makes a product understandable. Good design is honest. Good design is long-lasting. Good design is environmentally-friendly. Good design is as little design as possible. Good design is thorough, down to the last detail.&rdquo; <a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<li id="fn:2">
+<p><a href="https://www.youtube.com/watch?v=ob_GX50Za6c">Said Steve Jobs</a>, which resonates with me because I appreciate the idea of technology augmenting human, other than <a href="http://www.theverge.com/2014/6/24/5835708/google-x-labs-artificial-intelligence-elon-musk-terminator">mimicking</a> human.<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+<li id="fn:3">
+<p>Ben Thompson&rsquo;s excellent new <a href="http://stratechery.com/2014/games-good-enough/">piece</a> about game consoles is on Stratechery, my daily read.<a href="#fnref:3" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
+  
+</feed>
