@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Some of My UI Prototypes Using Sketch 3"
+date: 2015-02-27 17:06:10 -0500
+comments: true
+categories: design
+---
+These are the UI design that I've done while playing with [Sketch 3](http://bohemiancoding.com/sketch/) - fantastic design app by the way. Most of the techniques are learned from the nice tutorials on [Design + Code](http://bohemiancoding.com/sketch/).
+
+![image](http://kailun.me/images/InstagramMac1.png)
+The idea behind Instagram for Mac is that there should be a much simpler Instagram client on the desktop. The current selection of apps are burdened heavily with features and controls, while the photos are thereby not prominent. This UI prototype places photos upfront and edge-to-edge, hiding unnecessary controls to focus simply on browsing. Yosemite-style translucent background provides a visual clue: the photos are seemingly on a blurred glass.
+
+![image](http://kailun.me/images/InstagramMac2.png)
+Showing Comments and Profile.
+
+![image](http://kailun.me/images/WeightAppPage.png)
+The Weight app (currently under development) wants to be your fastest way to log weight as an alternative to other comprehensive health apps. The idea workflow is glancing at your history in the Notification Center widget or recording new weight in the app or on the Apple Watch within seconds. Since the difference between your weight on each day are usually small, less than 3 seconds should be taken to adjust your last day's weight to your new one. Data is stored to your iCloud account using HeathKit API and can be seen in the Health app, which can also log weight but in a much clunky way.
+
+![image](http://kailun.me/images/TrendingNow.png)
+A shabby reading app design for my friend while he was in a programming contest. Sorry about the barely visible thin font.
+ 
+![image](http://kailun.me/images/thinkplayMac.png)
+Another design showing the Cocoa version of Thinkplay. The app is currently built with Java Swing, a part of which I developed.
+
+Still these UI are far from being thoroughly thought about and tested. The [jobs-to-be-done](http://www.christenseninstitute.org/key-concepts/jobs-to-be-done/)[^1] of each product need to be discussed further when making design decisions. Hopefully during this year some of them can be implemented.
+
+[^1]: [The Critical Path podcast episode #134: Chief Jobs Officer](http://5by5.tv/criticalpath/134): this episode of Horace Dediu's podcast is so spot on.
